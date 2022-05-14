@@ -1,4 +1,4 @@
-from browser import document, html, ajax
+from browser import document, ajax
 from browser.html import TABLE, TR, TH, TD
 
 # Function to check data from server request
@@ -6,7 +6,7 @@ def checkData(request):
 
     # If everything is correct,
     if request.status == 200 and "learningModules" in request.json:
-
+        
         # Show data in HTML as a table
         lines = [["Name", request.json["studentName"]],
                  ["Family's Name", request.json["familyName"]],
@@ -16,16 +16,26 @@ def checkData(request):
 
         # Create table
         table = TABLE()
+        
+        # Create a row
+        row = TR() 
+        
+        # Add header cells
+        row <= TH("Data")
+        row <= TH("Content")
+        
+        # Add content to table
+        table <= row
 
         # Iterate through each row in list
         for line in lines:
             table <= TR(TD(line[0]) + TD(line[1]))
 
-        document['request-result'].text = ''
+        document['request-result'].clear()
         document['request-result'] <= table
 
     else:
-        document["request-result"].html = "ERROR! Address is not correct"
+        document['request-result'].html = "ERROR! Address is not correct"
 
 def getCertificate(_):
 
@@ -37,6 +47,6 @@ def getCertificate(_):
 
     # If it is empty
     else:
-        document["request-result"].html = "ERROR! Address cannot be empty"
+        document['request-result'].html = "ERROR! Address cannot be empty"
 
 document["get-certificate"].bind("click", getCertificate)
