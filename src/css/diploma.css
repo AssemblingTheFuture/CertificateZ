@@ -1,12 +1,12 @@
 @font-face {
-    font-family: 'Rhodium Libre';
+    font-family: 'Rocket Rinder';
     font-style: normal;
     font-weight: normal;
-    src: url('../../src/fonts/RhodiumLibre-Regular.ttf');
+    src: url('../../src/fonts/RocketRinder-yV5d.ttf');
 }
 
 body {
-    font-family: 'Roboto Slab';
+    font-family: 'Rocket Rinder';
     background-image: url("../../assets/certificate.jpg");
     background-size: cover;
     background-repeat: no-repeat;
@@ -37,10 +37,8 @@ body {
     margin: 21px;
     color: #fff;
     text-shadow:
-        0 0 7px #fff,
-        0 0 10px #fff,
-        0 0 21px #0fa,
-        0 0 82px #0fa;
+        0 0 1px #fff,
+        0 0 3px #0fa;
 }
 
 .items {
@@ -71,4 +69,12 @@ td {
 #logo {
     width: 154px;
     height: auto;
+}
+
+.footer {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    font-size: 14px;
+    text-align: center;
 }
