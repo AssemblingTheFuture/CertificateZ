@@ -8,66 +8,90 @@
 		<title>zDynamics | The Future is ROBOTICS</title>
 		<script src = "https://cdn.jsdelivr.net/npm/brython@3/brython.min.js"></script>
 		<script src = "https://cdn.jsdelivr.net/npm/brython@3/brython_stdlib.js"></script>
+		<script src = "https://code.jquery.com/jquery-3.6.0.min.js"></script>
+		<script src = "https://cdnjs.cloudflare.com/ajax/libs/jspdf/1.5.3/jspdf.min.js"></script>
 		<script src = "../src/diploma.py" type = "text/python"></script>
+		<link rel = "stylesheet" href = "../src/diploma.css">
 	</head>
 
 	<body onload="brython()">
 
-		<div class = "main">
+		<div id = "zero" class = "zero">
 			
-			<!-- Date Section -->
-			<h3 id = 'date'>{date}</h3>
-
-			<!-- Name Section -->
-			<h2 id = 'studentCompleteName'>{studentCompleteName}</h2>
-
-			<!-- Short Description -->
-			<h4 id = 'shortDescription'>{shortDescription}</h4>
-
-			<!-- Course or Workshop -->
-			<a id = "courseURL" href = "{courseURL}" target = "_blank">
-				<h1 id = 'courseName'>
-					{courseName}
-				</h1>
-			</a>
-
-			<!-- Short Description -->
-			<h4 id = 'longDescription'>{longDescription}</h4>
-
-			<!-- Instructor's Name -->
-			<a id = "instructorURL" href = "{instructorURL}" target = "_blank">
-				<h4 id = 'instructor'>
-					{instructor}
-				</h4>
-			</a>
-
-			<!-- Instructor's Licenses -->
-			<h5 id = 'instructorLicenses'></h5>
-
-			<!-- Line -->
-			<hr id = "signatureLine">
-
-			<!-- Instructor's Position -->
-			<h4 id = 'instructorPosition'>{instructorPosition}</h4>
-
-			<!-- Instructor's Position -->
-			<h3 id = 'lessons'>Lessons</h3>
-
-			<!-- Instructor's Position -->
-			<h4 id = 'learningModules'></h4>
-
-			<!-- Disclaimer -->
-			<p id = 'disclaimer'>
-				This online specialization is based on material from courses taught on-campus, but the included lectures/lessons are not equivalent to on-campus ones. Participation in this online specialization does not constitute enrollment at any university. This certificate does not confer an University grade, course credit or degree.
-			</p>
-
-			<!-- Validate on Tezos Network -->
-			<a id = "contractURL" href = "{contractURL}" target = "_blank">
-				<p id = 'contractAddress'>
-					Validate {contractAddress} on ꜩ Network
-				</p>
-			</a>
-
+			<div class = "main">
+			
+				<div class = "items">
+					<!-- Items on the left-->
+					<div class = "leftItems">
+						
+						<img id = "logo" src = "../assets/logo.png" alt = "The Future is ROBOTICS">
+	
+						<!-- Lessons -->
+						<h3 id = 'lessons'>SYLLABUS</h3>
+	
+						<!-- Lessons Learned -->
+						<h4 id = 'learningModules'></h4>
+	
+					</div>
+	
+					<!-- Items on the left-->
+					<div class = "rigthItems">
+						
+						<div class = "introduction">
+							<!-- Date Section -->
+							<h3 id = 'date'>{date}</h3>
+			
+							<!-- Name Section -->
+							<h2 id = 'studentCompleteName'>{studentCompleteName}</h2>
+			
+							<!-- Short Description -->
+							<h4 id = 'shortDescription'>{shortDescription}</h4>
+						</div>
+						
+						<div class = "description">
+							
+							<!-- Course or Workshop -->
+							<a id = "courseURL" href = "{courseURL}" target = "_blank">
+								<h1 id = 'courseName' style = "text-align: center;">
+									{courseName}
+								</h1>
+							</a>
+			
+							<!-- Long Description -->
+							<h4 id = 'longDescription' style = "text-align: justify;">{longDescription}</h4>
+						</div>
+			
+						<div class = "signature">
+							
+							<!-- Instructor's Name -->
+							<a id = "instructorURL" href = "{instructorURL}" target = "_blank">
+								<h4 id = 'instructor' style = "text-align: center;">
+									{instructor}
+								</h4>
+							</a>
+			
+							<!-- Instructor's Position -->
+							<h5 id = 'instructorPosition' style = "text-align: center;">{instructorPosition}</h5>
+						</div>
+	
+						<div class = "footer">
+							<!-- Disclaimer -->
+							<p id = 'disclaimer' style = "font-size: 7px; text-align: center;">
+								This online specialization is based on material from courses taught on-campus, but the included lectures/lessons are not equivalent to on-campus ones. <br>
+								Participation in this online specialization does not constitute enrollment at any university. This certificate does not confer an University grade, course <br>
+								credit or degree.
+							</p>
+			
+							<!-- Validate on Tezos Network -->
+							<a id = "contractURL" href = "{contractURL}" target = "_blank">
+								<p id = 'contractAddress' style = "font-size: 7px; text-align: center;">
+									Validate {contractAddress} on ꜩ Network
+								</p>
+							</a>
+						</div>
+					</div>
+				</div>
+			</div>
 		</div>
 
 	</body>

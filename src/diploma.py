@@ -2,6 +2,7 @@ from browser import document
 from browser.html import TABLE, TR, TD
 from browser.local_storage import storage
 from browser.template import Template
+from browser.widgets.dialog import InfoDialog
 import json
 
 # Get values of current certificate as JSON
@@ -13,29 +14,11 @@ def createTable(place, values):
     # Create table
     table = TABLE()
     
-    # If learning modules will be shown
-    if place == 'learningModules':
-
-        # Iterate through each value in list
-        for value in values:
+    # Iterate through each value in list
+    for value in values:
             
-            # Set value of each cell in column
-            table <= TR(TD(value))
-         
-    # Else, licenses will be shown
-    else:
-        
-        # Set empty row        
-        row = TR()
-        
-        # Iterate through each row in list
-        for value in values:
-            
-            # Set value of each cell in row
-            row <= TD(value)
-        
-        # Assign row to table
-        table <= row
+        # Set value of each cell in column
+        table <= TR(TD(value))
 
     # Delete section in HTML
     document[place].clear()
@@ -62,10 +45,6 @@ Template(document["longDescription"]).render(longDescription = certificate["long
 # Add instructor's name
 Template(document["instructor"]).render(instructor = certificate["instructor"])
 Template(document["instructorURL"]).render(instructorURL = URLs["instructorURL"], name = certificate["instructor"])
-
-# Add instructor's licenses
-# Template(document["instructorLicenses"]).render(instructorLicenses = certificate["instructorLicenses"])
-createTable(place = 'instructorLicenses', values = certificate["instructorLicenses"])
 
 # Add instructor's position
 Template(document["instructorPosition"]).render(instructorPosition = certificate["instructorPosition"])
