@@ -23,7 +23,7 @@ contractsURL = "https://ithacanet.tzkt.io/"
 def checkData(request):
 
     # If everything is correct,
-    if request.status == 200 and "learningModules" in request.json:
+    if request.status == 200 and "instructorLicenses" in request.json:
         
         # Assign links to some values in table
         course = A(request.json["courseName"], href = linkCourse[request.json["courseName"]], target = "_blank")
