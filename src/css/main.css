@@ -2,12 +2,12 @@
     font-family: 'Roboto Slab';
     font-style: normal;
     font-weight: normal;
-    src: url('../src/fonts/RobotoSlab-Regular.ttf');
+    src: url('../../src/fonts/RobotoSlab-Regular.ttf');
 }
 
 body {
     font-family: 'Roboto Slab';
-    background-image: url("../assets/future.gif");
+    background-image: url("../../assets/future.gif");
     background-size: cover;
     background-repeat: no-repeat;
 	height: 100vh;
@@ -543,7 +543,7 @@ a:hover {
 table {
     font-size: 14px;
     text-align: center;
-    background: #012B39;
+    background: rgba(20, 33, 61, 0.77);
     border-radius: 0.25em;
     border-collapse: collapse;
     margin: auto;

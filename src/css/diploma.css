@@ -2,12 +2,12 @@
     font-family: 'Rhodium Libre';
     font-style: normal;
     font-weight: normal;
-    src: url('../src/fonts/RhodiumLibre-Regular.ttf');
+    src: url('../../src/fonts/RhodiumLibre-Regular.ttf');
 }
 
 body {
     font-family: 'Roboto Slab';
-    background-image: url("../assets/certificate.jpg");
+    background-image: url("../../assets/certificate.jpg");
     background-size: cover;
     background-repeat: no-repeat;
 	height: 100vh;
