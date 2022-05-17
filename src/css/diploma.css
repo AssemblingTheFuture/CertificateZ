@@ -71,9 +71,17 @@ td {
     height: auto;
 }
 
+#hecho-en-mexico,
+#qr,
+#disclaimer {
+    height: auto;
+    margin: auto;
+}
+
 .footer {
     display: flex;
     align-items: center;
+    align-content: center;
     width: 100%;
     font-size: 14px;
     text-align: center;
