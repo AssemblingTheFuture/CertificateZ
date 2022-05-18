@@ -7,7 +7,7 @@ import json
 linkCourse = {"Numerical Methods with Engineering Applications" : "https://bit.ly/NumericZ",
               "Control of Dynamical Systems" : "https://bit.ly/zControl",
               "Robotics: from Kinematics to Control" : "https://bit.ly/RoboticZ",
-              "Basic Robot Programming with Python" : "https://bit.ly/CertificateZ"}
+              "Basic Robot Programming using Python" : "https://bit.ly/CertificateZ"}
 
 # List of instructors
 instructors = {"zDynamics" : "https://zdynamics.org/about/",
@@ -54,7 +54,7 @@ def checkData(request):
         for line in lines:
             table <= TR(TD(line[0]) + TD(line[1]))
 
-        # Delete everythin in current section
+        # Delete everything in current section
         document['request-result'].clear()
         
         # Add table
