@@ -144,10 +144,10 @@ def showData(certificates, addresses, contractsURL):
             if course in certificates[name]:
                 
                 # Address of smart contract
-                address = addresses[name][course] if not "Udemy" in addresses[name][course] else "#"
+                url = contractsURL + addresses[name][course] + "/storage" if not "Udemy" in addresses[name][course] else "https://udemy.com/"
                 
                 # Get the addresses of the smart contracts if the current student took the course
-                row <= TD(A(certificates[name][course], href = contractsURL + address + "/storage", target = "_blank"))
+                row <= TD(A(certificates[name][course], href = url, target = "_blank"))
             
             # Otherwise
             else:

@@ -111,16 +111,16 @@ def test():
     # Define a test scenario
     scenario = sp.test_scenario()
 
-    courseName = "Robotics: from Kinematics to Control"
-    studentName = "Bob"
-    familyName = "el Trompas"
-    date = "September 29, 1994"
-    shortDescription = "has successfully completed the +10 hours Profesional Training"
-    longDescription = "This certificate acknowledges that students developed and improved their skills in Robotics. They acquired theoretical and hands-on experience on kinematics, dynamics and control of robotic systems using MATLAB, Simulink and Python after completing several assignments about solving real-life problems, using basic algorithms up to advanced simulations"
-    learningModules = ["Kinematics", "Dual Quaternions", "Dynamics"]
+    date = "October 4, 2021"
+    studentName = "Astrid"
+    familyName = "Torres"
+    shortDescription = "has successfully completed the +5 hours Profesional Training"
+    courseName = "Numerical Methods with Engineering Applications"
+    longDescription = "This certificate acknowledges that students developed and improved their skills in Numerical Methods and Algorithms. They acquired theoretical and hands-on experience in numerical mathematics, flow charts, pseudocodes, optimization, curve fitting and numerical solvers. This included the use of Python for several assignments where they solved real-life engineering problems, using basic algorithms up to advanced simulations"
+    learningModules = ["Flow charts", "Mathematical Modelling", "Optimization", "Curve Fitting", "Numerical Solvers", "Git", "GitHub"]
     instructor = "David Zenteno-Lara"
     instructorPosition = "Founder"
-    instructorLicenses = ["ABC-123", "CDE-456"]
+    instructorLicenses = ["11598263"]
 
     # Creates a certificate
     certificate = Certificate(courseName, studentName, familyName, date, shortDescription, longDescription, learningModules, instructor, instructorPosition, instructorLicenses)
