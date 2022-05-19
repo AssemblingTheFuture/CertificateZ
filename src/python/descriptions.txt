@@ -1,0 +1,31 @@
+NUMERICAL METHODS:
+
+shortDescription = "has successfully completed the +5 hours Profesional Training"
+
+longDescription = "This certificate acknowledges that students developed and improved their skills in Numerical Methods and Algorithms. They acquired theoretical and hands-on experience in numerical mathematics, flow charts, pseudocodes, optimization, curve fitting and numerical solvers. This included the use of Python for several assignments where they solved real-life engineering problems, using basic algorithms up to advanced simulations"
+
+learningModules = ["Flow charts", "Mathematical Modelling", "Optimization", "Curve Fitting", "Numerical Solvers", "Git", "GitHub"]
+
+CONTROL:
+
+shortDescription = "has successfully completed the +5 hours Profesional Training"
+
+longDescription = "This certificate acknowledges that students developed and improved their skills in Control Systems. They acquired theoretical and hands-on experience in modelling, stability analysis with Lyapunov functions and control schemes such as PID, adaptive and Fuzzy ones; this included the use of MATLAB and Simulink for several assignments where they solved real-life problems, using basic algorithms up to advanced simulations"
+
+learningModules = ["Differential Equations", "Mathematical Modelling", "Lyapunov Stability Theory", "PID Controlllers", "Non-linear Observers", "Adaptive Controllers", "Fuzzy Controllers"]
+
+ROBOTICS:
+
+shortDescription = "has successfully completed the +10 hours Profesional Training"
+
+longDescription = "This certificate acknowledges that students developed and improved their skills in Robotics. They acquired theoretical and hands-on experience on kinematics, dynamics and control of robotic systems using MATLAB, Simulink and Python after completing several assignments about solving real-life problems, using basic algorithms up to advanced simulations"
+
+learningModules = ["Kinematics", "Dual Quaternions", "Dynamics"]
+
+PYTHON ROBOTICS:
+
+shortDescription = "has successfully completed the +4 hours Profesional Training"
+
+longDescription = "This certificate acknowledges that students developed and improved their skills in Robot Programming. They acquired theoretical and hands-on experience on kinematics of collaborative robots using Python after completing several assignments about solving real-life problems, using basic algorithms up to advanced simulations"
+
+learningModules = ["Robot Setup", "Basics on Robot Calibration", "Kinematics Identification", "Robot Kinematics", "Robot Time Cycle", "Trajectory Planning", "Python"]

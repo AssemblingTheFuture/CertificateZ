@@ -1,10 +1,14 @@
 import os
 import csv
-from re import L
+from operator import itemgetter
 from browser import document, aio
 from browser.html import A, TABLE, TR, TH, TD
 
+# URL for smart contract overview
+contractsURL = "https://ithacanet.tzkt.io/"
+
 # Get CSV paths
+addressesCSV = os.path.dirname(__file__) + "/csv/addresses.csv"
 numericalCSV = os.path.dirname(__file__) + "/csv/numerical.csv"
 controlCSV = os.path.dirname(__file__) + "/csv/control.csv"
 roboticsCSV = os.path.dirname(__file__) + "/csv/robotics.csv"
@@ -23,36 +27,68 @@ certificates = {}
 courses = [key for key in linkCourse]
 
 # Read any CSV
-def readCSV(csvURL, certificates, course):
+def readCSV(csvURL, certificates, addresses, course):
 
-    # Open CSV file for Numerical Methods
+    # Open CSV file
     with open(csvURL) as csv_file:
         
         # Read data as dictionary
         csv_reader = csv.DictReader(csv_file, delimiter = ',')
 
         # Iterate through all rows
-        for rows in csv_reader:
+        for row in csv_reader:
             
             # If current student has finished the course
-            if "100" in rows['Progress']:
+            if "100" in row['Progress']:
                 
                 # Get the name
-                name = rows['Student Name']
+                name = row['Student Name']
                 
                 # If student is already in the dictionary
-                if name in certificates:
+                if name in certificates and name in addresses:
                     
                     # Add the address of the contract in the current course
-                    certificates[name][course] = "Z"
+                    certificates[name][course] = addresses[name][course]
                 
                 # Otherwise
-                else:
+                elif not name in certificates and name in addresses:
 
+                    # Store it as key in the certificate's dictionary and include the direction of the certificate
+                    certificates[name] = {course : addresses[name][course]}
+                
+                # Otherwise
+                elif name in certificates and not name in addresses:
+
+                    # Store it as key in the certificate's dictionary and include the direction of the certificate
+                    certificates[name][course] = "Z"
+                    
+                # Otherwise
+                elif not name in certificates and not name in addresses:
+                    
                     # Store it as key in the certificate's dictionary and include the direction of the certificate
                     certificates[name] = {course : "Z"}
         
     return certificates
+
+# Read addresses CSV
+def readAddresses(addressesCSV, courses):
+    
+    # Create empty dictionary for smart contracts' addresses
+    addresses = {}
+    
+    # Open addresses CSV file as dictionary
+    with open(addressesCSV) as csv_file:
+        
+        # Read data as dictionary
+        file = csv.DictReader(csv_file, delimiter = ',')
+        
+        # Iterate through all rows
+        for row in file:
+            
+            # Add the address of the contract in the current course
+            addresses[row['Name']] = dict(zip(courses, list(map(dict(row).get, courses))))
+
+    return addresses
 
 # Sort students by name
 def sortStudents(certificates):
@@ -72,7 +108,7 @@ def sortStudents(certificates):
     return sortedDictionary
 
 # Show data as table in HTML
-def showData(certificates):
+def showData(certificates, addresses, contractsURL):
     
     # Create table
     table = TABLE()
@@ -107,8 +143,11 @@ def showData(certificates):
             # If current student has finished the current course
             if course in certificates[name]:
                 
+                # Address of smart contract
+                address = addresses[name][course] if not "Udemy" in addresses[name][course] else "#"
+                
                 # Get the addresses of the smart contracts if the current student took the course
-                row <= TD(A(certificates[name][course], href = "#", target = "_blank"))
+                row <= TD(A(certificates[name][course], href = contractsURL + address + "/storage", target = "_blank"))
             
             # Otherwise
             else:
@@ -125,17 +164,20 @@ def showData(certificates):
     # Add table
     document['students-data'] <= table
 
+# Get already deployed smart contracts
+addresses = readAddresses(addressesCSV, courses)
+
 # Read Numerical Methods course
-certificates = readCSV(numericalCSV, certificates, courses[0])
+certificates = readCSV(numericalCSV, certificates, addresses, courses[0])
 
 # Read Control course
-certificates = readCSV(controlCSV, certificates, courses[1])
+certificates = readCSV(controlCSV, certificates, addresses, courses[1])
 
 # Read Robotics course
-certificates = readCSV(roboticsCSV, certificates, courses[2])
+certificates = readCSV(roboticsCSV, certificates, addresses, courses[2])
 
 # Read Python Robotics course
-certificates = readCSV(pythonCSV, certificates, courses[3])
+certificates = readCSV(pythonCSV, certificates, addresses, courses[3])
 
 # Create table in HTML (sorted by students' names)
-showData(sortStudents(certificates))
+showData(sortStudents(certificates), addresses, contractsURL)
