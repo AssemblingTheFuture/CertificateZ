@@ -1,13 +1,13 @@
 @font-face {
-    font-family: 'Roboto Slab';
+    font-family: 'Orbitron';
     font-style: normal;
     font-weight: normal;
-    src: url('../../src/fonts/Potra-E0Ye.ttf');
+    src: url("../../src/fonts/Orbitron-Regular.ttf")
 }
 
 html, body {
     display: block;
-    font-family: 'Roboto Slab';
+    font-family: 'Orbitron';
     background-image: url("../../assets/future.gif");
     background-size: cover;
     background-repeat: repeat;

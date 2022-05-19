@@ -1,12 +1,12 @@
 @font-face {
-    font-family: 'Rocket Rinder';
+    font-family: 'Orbitron';
     font-style: normal;
     font-weight: normal;
-    src: url('../../src/fonts/RocketRinder-yV5d.ttf');
+    src: url('../../src/fonts/Orbitron-Regular.ttf');
 }
 
 body {
-    font-family: 'Rocket Rinder';
+    font-family: 'Orbitron';
     background-image: url("../../assets/certificate.jpg");
     background-size: cover;
     background-repeat: no-repeat;
@@ -38,7 +38,9 @@ body {
     color: #fff;
     text-shadow:
         0 0 1px #fff,
-        0 0 3px #0fa;
+        0 0 3px #fff,
+        0 0 5px #0fa,
+        0 0 7px #0fa;
 }
 
 .items {
