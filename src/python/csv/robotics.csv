@@ -8,10 +8,10 @@ Meedge James,False,2021-02-07 18:01:36+00:00,2022-01-06 03:40:14+00:00,2022-01-1
 Jose Jorge Figueroa,False,2020-11-28 02:03:15+00:00,,2021-02-18 17:08:43+00:00,,0,0,0
 David Delgadillo,False,2021-03-04 01:32:04+00:00,,2021-08-31 17:11:45+00:00,,0,0,0
 Miguel Menacho,False,2020-11-23 19:29:16+00:00,,2020-11-23 23:14:49+00:00,,0,0,0
-Diego Armando Pulido Ramos,False,2021-03-17 18:58:35+00:00,2021-04-09 04:06:57+00:00,2022-04-25 05:32:09+00:00,Cinemática Inversa,96,0,0
+Diego Armando Pulido Ramos,False,2021-03-17 18:58:35+00:00,2021-04-09 04:06:57+00:00,2022-04-25 05:32:09+00:00,Cinemática Inversa,93,0,0
 Jossue Hernández,False,2021-01-08 18:17:27+00:00,,2021-01-08 18:19:18+00:00,,0,0,0
 octavio Esquivel Álvarez del castillo,False,2021-05-05 18:33:26+00:00,,,,0,0,0
-Alan Daniel Pérez García,False,2020-09-03 16:13:24+00:00,2020-09-09 04:13:09+00:00,2021-03-10 00:11:38+00:00,Posición Relativa,11,0,0
+Alan Daniel Pérez García,False,2020-09-03 16:13:24+00:00,2020-09-09 04:13:09+00:00,2021-03-10 00:11:38+00:00,Posición Relativa,9,0,0
 Pedro Fernando Flores Palmeros,False,2021-09-10 23:56:15+00:00,,,,0,0,0
 Fernandogc,False,2021-11-12 04:42:14+00:00,,,,0,0,0
 Alejandro Garcés Sánchez,False,2021-02-14 01:13:01+00:00,2021-06-06 21:29:59+00:00,2021-06-16 09:17:14+00:00,Operaciones con Cuaterniones,23,0,0
@@ -23,7 +23,7 @@ David Loza,False,2020-09-23 14:21:53+00:00,2020-09-27 14:05:00+00:00,2022-02-08 
 David Ladislao,False,2020-08-14 18:13:03+00:00,2020-08-14 18:16:55+00:00,2020-08-14 18:38:41+00:00,Ejemplo I: Posición Relativa de un Cuerpo Rígido,13,0,0
 Guillermo Gamarra Astuhuaman,False,2020-09-25 23:13:53+00:00,2020-09-25 23:20:24+00:00,2020-11-16 13:44:48+00:00,ANTES DE COMENZAR :),5,0,0
 Juan Lozano,False,2020-09-23 13:08:59+00:00,,,,0,0,0
-Josito Pomor,False,2021-08-09 06:40:09+00:00,2021-08-09 06:40:39+00:00,2022-05-17 18:24:10+00:00,Cinemática Inversa: Realimentación del Error (Cuaterniones Duales),54,0,0
+Josito Pomor,False,2021-08-09 06:40:09+00:00,2021-08-09 06:40:39+00:00,2022-05-24 19:49:34+00:00,Cinemática Inversa: Realimentación del Error (Cuaterniones Duales),54,0,0
 Daniel Alejandro García Vázquez,False,2021-10-07 21:45:15+00:00,,,,0,0,0
 Luis Fernando Bello Hernandez,False,2021-11-29 08:48:19+00:00,2021-11-29 08:49:41+00:00,2022-05-06 10:12:17+00:00,Un mensaje....,2,0,0
 Edgar Arturo Ruvalcaba Neri,False,2020-11-28 05:54:23+00:00,,,,0,0,0
@@ -36,7 +36,7 @@ liu Ricardez,False,2021-04-21 04:28:56+00:00,2021-04-27 00:20:50+00:00,2021-11-2
 Oscar Loyola,False,2020-10-22 03:07:58+00:00,2020-10-22 03:12:04+00:00,2021-12-06 20:07:56+00:00,Cinemática Directa: Cuaterniones Duales,43,0,0
 Fernando Barragan,False,2020-08-14 18:15:59+00:00,,,,0,0,0
 Jmoya,False,2020-09-28 14:39:35+00:00,2021-11-12 00:02:01+00:00,2021-12-01 18:43:20+00:00,¿QUIÉNES SOMOS?,3,0,0
-Jesús García Barrera,False,2022-03-22 18:28:13+00:00,2022-03-22 18:32:49+00:00,2022-04-12 03:40:06+00:00,Operaciones con Cuaterniones II,11,0,0
+Jesús García Barrera,False,2022-03-22 18:28:13+00:00,2022-03-22 18:32:49+00:00,2022-04-12 03:40:06+00:00,Operaciones con Cuaterniones II,9,0,0
 Luis Chew,False,2020-08-15 01:57:43+00:00,2020-08-15 04:10:27+00:00,2021-09-07 03:48:53+00:00,Cuerpo Rígido: Conceptos y Propiedades,9,0,0
 José Samuel Gómez Correa,False,2021-08-26 22:35:17+00:00,2021-08-31 03:09:44+00:00,2022-02-16 05:56:48+00:00,Ejemplo II: Orientación Relativa de un Cuerpo Rígido,19,0,0
 Gonzalo Sanz,False,2021-09-01 11:13:20+00:00,2021-12-17 10:03:16+00:00,2022-01-28 12:22:41+00:00,¿QUIÉNES SOMOS?,2,0,0
@@ -56,12 +56,12 @@ Juventino Romero,False,2020-11-06 21:15:25+00:00,2020-11-06 21:30:31+00:00,2022-
 Osmar Antonio García Vázquez,False,2020-12-25 21:38:27+00:00,,2020-12-25 21:50:13+00:00,,0,0,0
 Edwin Toapanta,False,2020-08-21 12:58:22+00:00,,2021-01-26 19:26:02+00:00,,0,0,0
 Aaron Rosales Perez,False,2021-08-02 19:01:57+00:00,2021-08-02 19:14:41+00:00,2021-08-06 18:09:52+00:00,Ejemplo III: Postura Relativa de un Cuerpo Rígido con MATLAB,19,0,0
-Gabriel Sanchez,False,2022-05-12 01:09:21+00:00,2022-05-17 21:09:31+00:00,2022-05-17 21:09:36+00:00,(POR FAVOR) LEE ESTO ANTES DE CONTINUAR :D,2,0,0
-Christian Jordan Ruvalcaba Pineda,False,2022-03-15 00:55:03+00:00,2022-03-15 09:24:46+00:00,2022-03-18 09:15:56+00:00,Orientación Relativa,11,0,0
+Gabriel Sanchez,False,2022-05-12 01:09:21+00:00,2022-05-17 21:09:31+00:00,2022-05-20 19:00:34+00:00,Conceptos Básicos,21,0,0
+Christian Jordan Ruvalcaba Pineda,False,2022-03-15 00:55:03+00:00,2022-03-15 09:24:46+00:00,2022-03-18 09:15:56+00:00,Orientación Relativa,9,0,0
 Bryan Andres,False,2022-03-31 05:09:09+00:00,2022-03-31 05:13:16+00:00,2022-03-31 05:13:21+00:00,Introducción,2,0,0
 Carlos Morales Carbajal,False,2022-02-04 04:27:02+00:00,,2022-02-05 00:20:30+00:00,,0,0,0
 Domingo Andres González González,False,2021-11-29 00:03:51+00:00,,,,0,0,0
-hapzek94 .,False,2021-05-22 11:14:43+00:00,,2022-01-03 06:34:50+00:00,,0,0,0
+hapzek94 .,False,2021-05-22 11:14:43+00:00,2022-05-20 11:47:33+00:00,2022-05-20 12:14:09+00:00,Introducción,5,0,0
 André Barbosa da Costa,False,2022-02-16 20:41:29+00:00,2022-03-14 06:55:38+00:00,2022-04-13 22:51:47+00:00,Velocidad y Aceleración en los Centros de Masa con Cuaterniones Duales,93,0,0
 Marcio Aurelio Furtado Montezuma,False,2021-12-01 12:43:14+00:00,,,,0,0,0
 Alan David Rodríguez Hernández,False,2020-09-12 19:02:28+00:00,2020-09-12 19:03:26+00:00,2020-12-18 06:38:14+00:00,Matriz Jacobiana Geométrica,24,0,0
@@ -70,26 +70,28 @@ Abraham Mondragon,False,2021-09-20 01:40:33+00:00,2021-10-14 01:56:33+00:00,2022
 Francisco MARTINEZ,False,2020-12-11 12:58:47+00:00,,,,0,0,0
 Roberto Alvarez Bernal,False,2021-04-14 23:43:34+00:00,2021-05-08 20:15:16+00:00,2021-05-08 20:15:21+00:00,Introducción,3,0,0
 Marco Esteban Cabezas Quiroz,False,2022-01-02 03:00:38+00:00,2022-01-02 03:03:08+00:00,2022-01-15 18:41:44+00:00,Ejemplo III: Postura Relativa de un Cuerpo Rígido con MATLAB,19,0,0
-Rogerio,False,2021-11-29 14:24:45+00:00,2021-12-04 14:59:58+00:00,2022-03-26 05:51:11+00:00,Parámetros Denavit - Hartenberg,10,0,0
+Amaury,False,2022-05-22 16:29:27+00:00,2022-05-23 05:30:13+00:00,2022-05-23 05:30:18+00:00,Cuerpo Rígido: Conceptos y Propiedades,2,0,0
+Rogerio,False,2021-11-29 14:24:45+00:00,2021-12-04 14:59:58+00:00,2022-03-26 05:51:11+00:00,Parámetros Denavit - Hartenberg,9,0,0
 Aldo Armin Cázares Ortiz,False,2021-01-29 21:58:05+00:00,2021-01-29 22:41:50+00:00,2021-02-23 22:39:33+00:00,Operaciones con Cuaterniones,19,0,0
 Martin Santos Dominguez,False,2021-11-27 03:45:08+00:00,,,,0,0,0
 Nelson Humberto Zambrano Cortés,False,2021-07-27 03:55:08+00:00,2021-07-30 01:15:38+00:00,2022-04-28 21:35:08+00:00,(POR FAVOR) LEE ESTO ANTES DE CONTINUAR :D,64,0,0
 Richard Valverde,False,2021-11-21 02:55:57+00:00,2021-11-21 03:00:08+00:00,2022-05-09 15:19:00+00:00,ANTES DE COMENZAR :),19,0,0
 Carlos Alberto Sanchez Delgado,False,2022-01-23 16:38:37+00:00,2022-01-26 17:38:09+00:00,2022-02-13 03:07:09+00:00,Ejemplo III: Postura Relativa de un Cuerpo Rígido con MATLAB,19,0,0
 José Manuel Morales Cruz,False,2022-04-05 23:11:39+00:00,,2022-05-06 01:38:58+00:00,,0,0,0
-Fermin Castro Zamora,False,2020-11-22 21:41:52+00:00,2021-11-15 15:58:09+00:00,2022-05-17 20:01:29+00:00,Operaciones con Cuaterniones,20,0,0
+Fermin Castro Zamora,False,2020-11-22 21:41:52+00:00,2021-11-15 15:58:09+00:00,2022-05-24 15:23:15+00:00,Posición Relativa,25,0,0
 Oscar dominguez ugarte,False,2021-05-20 12:43:11+00:00,2021-05-20 15:38:28+00:00,2022-02-21 19:50:48+00:00,Orientación Relativa,14,0,0
 Juan Andres Hernández Gómez,False,2022-01-08 05:56:07+00:00,2022-01-11 00:22:17+00:00,2022-01-14 00:09:12+00:00,Cuerpo Rígido: Conceptos y Propiedades,10,0,0
 Ernesto Velasco,False,2020-08-28 15:37:13+00:00,2020-08-28 22:23:05+00:00,2020-10-02 17:24:24+00:00,GITHUB (•̀ᴗ•́)و,19,0,0
 Oscar Hurtado,False,2022-04-16 23:50:25+00:00,2022-04-17 00:33:42+00:00,2022-05-03 06:18:30+00:00,Introducción,35,0,0
 Omar Flores Rojas,False,2020-11-30 16:28:43+00:00,2021-01-28 18:57:07+00:00,2021-09-13 04:00:36+00:00,Cinemática Inversa: Realimentación del Error (Axis - Angle),23,0,0
-Carlos Ríos Ramírez,False,2021-08-03 21:17:23+00:00,2021-11-21 04:37:04+00:00,2021-12-03 16:55:30+00:00,(POR FAVOR) LEE ESTO ANTES DE CONTINUAR :D,2,0,0
+Carlos Ríos Ramírez,False,2021-08-03 21:17:23+00:00,2021-11-21 04:37:04+00:00,2022-05-20 13:43:19+00:00,Cuerpo Rígido: Conceptos y Propiedades,5,0,0
 Saul Emmanuel,False,2022-03-25 23:15:28+00:00,,,,0,0,0
+Jonathan Daniel López Zamora,False,2022-05-22 17:43:33+00:00,2022-05-22 17:43:56+00:00,2022-05-22 17:44:01+00:00,[GRATIS] OBTÉN TU CERTIFICADO PROFESIONAL,2,0,0
 Felipe Villalobos,False,2020-12-31 05:08:58+00:00,2020-12-31 19:02:08+00:00,2022-01-05 03:42:17+00:00,Ejemplo III: Postura Relativa de un Cuerpo Rígido con MATLAB,17,0,0
 Miguel Chavez,False,2021-09-14 01:51:52+00:00,,2022-05-04 07:34:35+00:00,,0,0,0
 Luis Eduardo García Linares,False,2021-06-02 18:17:58+00:00,,2021-06-02 18:23:50+00:00,,0,0,0
 Mario Francisco Martínez Gutiérrez,False,2021-08-17 03:31:13+00:00,2021-09-07 01:08:42+00:00,2021-09-07 01:08:47+00:00,(POR FAVOR) LEE ESTO ANTES DE CONTINUAR :D,3,0,0
-Sergio Mario Chávez García,False,2020-08-14 22:45:09+00:00,2020-09-23 20:22:33+00:00,2022-01-19 01:58:39+00:00,Posición Relativa,11,0,0
+Sergio Mario Chávez García,False,2020-08-14 22:45:09+00:00,2020-09-23 20:22:33+00:00,2022-01-19 01:58:39+00:00,Posición Relativa,9,0,0
 Ramon Antonio Hoil Valencia,False,2021-10-22 17:07:20+00:00,2021-10-22 17:12:21+00:00,2022-02-14 16:03:28+00:00,Postura Relativa,34,0,0
 Juan Camilo Herrera Pineda,False,2020-08-15 19:30:40+00:00,2020-08-15 19:33:07+00:00,2021-10-04 22:03:27+00:00,Operaciones con Cuaterniones Duales,46,0,0
 Romeo Trujillo Pantoja,False,2020-11-27 22:46:02+00:00,2020-12-11 21:03:58+00:00,2021-10-04 15:28:52+00:00,Operaciones con Cuaterniones Duales,34,0,0
@@ -98,14 +100,14 @@ Josemaria Delgado Gonzalez,False,2021-03-11 18:36:50+00:00,,2021-05-10 15:53:33+
 Martin Flores,False,2021-04-06 08:50:28+00:00,,2021-04-06 08:50:28+00:00,,0,0,0
 Francisco Hurtado,False,2022-04-18 21:35:50+00:00,,,,0,0,0
 David Ismael Ramos,False,2021-11-30 01:09:45+00:00,2021-12-11 00:00:52+00:00,2022-04-26 02:49:41+00:00,Ejemplo I: Posición Relativa de un Cuerpo Rígido,14,0,0
-Luis Fernando Hernández Godínez,False,2022-01-02 05:44:02+00:00,2022-01-02 19:49:04+00:00,2022-05-11 17:32:52+00:00,Cinemática Inversa,72,0,0
+Luis Fernando Hernández Godínez,False,2022-01-02 05:44:02+00:00,2022-01-02 19:49:04+00:00,2022-05-24 17:27:19+00:00,Cinemática Inversa,72,0,0
 David Zenteno,False,2021-06-12 01:15:52+00:00,2021-06-12 01:16:02+00:00,2021-06-12 01:16:51+00:00,Control de un Robot con Incertidumbre,64,0,0
 Astrid Itzel Torres Blas,False,2021-06-12 01:19:14+00:00,2021-06-12 01:19:27+00:00,2021-10-04 21:48:41+00:00,Parámetros Denavit - Hartenberg,64,0,0
 José Eduardo Infante Hernández,False,2021-04-02 05:58:11+00:00,2021-04-05 02:38:59+00:00,2021-04-05 03:45:42+00:00,GITHUB (•̀ᴗ•́)و,12,0,0
 Pablo Osorio Loyo,False,2021-05-12 18:22:24+00:00,,2022-03-14 06:15:23+00:00,,0,0,0
 Andrés Felipe Poveda,False,2021-11-23 13:22:19+00:00,,,,0,0,0
-Adrián Gerardo Velarde Bernal,False,2021-03-17 04:26:21+00:00,2021-04-05 23:06:51+00:00,2022-05-05 19:58:02+00:00,Introducción,3,0,0
-Rafael García,False,2020-11-07 05:52:14+00:00,2020-11-07 07:05:57+00:00,2020-12-22 21:31:37+00:00,Ejemplo I: Posición Relativa de un Cuerpo Rígido,11,0,0
+Adrián Gerardo Velarde Bernal,False,2021-03-17 04:26:21+00:00,2021-04-05 23:06:51+00:00,2022-05-20 19:29:58+00:00,Introducción,3,0,0
+Rafael García,False,2020-11-07 05:52:14+00:00,2020-11-07 07:05:57+00:00,2020-12-22 21:31:37+00:00,Ejemplo I: Posición Relativa de un Cuerpo Rígido,9,0,0
 Efrain Gonzalez Paez,False,2021-02-01 04:57:03+00:00,2021-02-01 15:58:06+00:00,2022-02-19 08:55:07+00:00,zRobotics 0.1 Beta,14,0,0
 Guillermo Trinidad,False,2021-11-28 06:32:22+00:00,,,,0,0,0
 Enrique Martin Villarreal Rosales,False,2021-01-06 05:41:49+00:00,2021-02-12 03:21:51+00:00,2022-01-26 01:01:18+00:00,Ejemplo I: Posición Relativa de un Cuerpo Rígido,12,0,0
@@ -113,14 +115,15 @@ Alexis Bastida,False,2022-01-07 01:17:58+00:00,,2022-01-07 01:17:59+00:00,,0,0,0
 J. Javier Leyva,False,2021-08-19 04:49:06+00:00,2021-08-22 19:49:24+00:00,2021-11-15 06:57:19+00:00,Postura Relativa,34,0,0
 Sergio Hernández Sánchez,False,2022-01-06 04:23:19+00:00,2022-01-13 04:16:10+00:00,2022-03-05 01:22:50+00:00,Ejemplo II: Orientación Relativa de un Cuerpo Rígido,14,0,0
 Alberto Zermeño Hernández,False,2020-11-23 04:23:46+00:00,2020-11-25 03:31:34+00:00,2020-11-25 03:40:49+00:00,Cuerpo Rígido: Conceptos y Propiedades,9,0,0
-Miriam Noemi Caceres,False,2021-02-01 14:23:42+00:00,2021-02-01 14:27:30+00:00,2021-10-03 00:12:25+00:00,Cinemática Directa: Matrices de Transformación Homogénea,29,0,0
-charles dummar camasca macedo,False,2021-01-18 05:20:17+00:00,2021-01-18 05:22:17+00:00,2021-01-20 21:29:55+00:00,Un mensaje....,55,0,0
-Sergio Rojas,False,2020-10-08 04:20:47+00:00,2020-10-09 04:22:12+00:00,2021-05-20 15:31:47+00:00,Cinemática Directa: Cuaterniones Duales,11,0,0
+Miriam Noemi Caceres,False,2021-02-01 14:23:42+00:00,2021-02-01 14:27:30+00:00,2021-10-03 00:12:25+00:00,Cinemática Directa: Matrices de Transformación Homogénea,24,0,0
+charles dummar camasca macedo,False,2021-01-18 05:20:17+00:00,2021-01-18 05:22:17+00:00,2021-01-20 21:29:55+00:00,Un mensaje....,53,0,0
+Sergio Rojas,False,2020-10-08 04:20:47+00:00,2020-10-09 04:22:12+00:00,2022-05-23 22:27:14+00:00,[GRATIS] OBTÉN TU CERTIFICADO PROFESIONAL,11,0,0
 José Luis García Antonio,False,2020-08-18 16:15:19+00:00,2020-08-18 16:20:18+00:00,2020-08-30 08:09:38+00:00,Ejemplo II: Orientación Relativa de un Cuerpo Rígido,14,0,0
 Victor Pedro Uturunco Condori,False,2021-06-05 00:04:15+00:00,2021-06-05 00:05:04+00:00,2021-12-30 01:34:40+00:00,Cinemática Directa: Matrices de Transformación Homogénea,5,0,0
 Alfredo Juan Guerra López,False,2022-01-28 15:51:45+00:00,,,,0,0,0
 Gildardo Godinez Garrido,False,2021-01-25 03:40:50+00:00,2021-02-08 23:30:04+00:00,2021-09-27 02:18:21+00:00,(POR FAVOR) LEE ESTO ANTES DE CONTINUAR :D,14,0,0
-Manuel Loeza González,False,2020-11-06 00:31:56+00:00,2020-11-06 00:37:34+00:00,2022-05-13 13:28:12+00:00,Postura Relativa,55,0,0
+Neto,False,2022-05-21 22:37:42+00:00,2022-05-21 22:39:18+00:00,2022-05-24 05:36:50+00:00,Operaciones con Cuaterniones Duales II,30,0,0
+Manuel Loeza González,False,2020-11-06 00:31:56+00:00,2020-11-06 00:37:34+00:00,2022-05-13 13:28:12+00:00,Postura Relativa,53,0,0
 Marcelo Alejandro Huerta Espinoza,False,2021-06-23 23:48:18+00:00,2021-06-24 00:25:58+00:00,2021-06-25 15:45:46+00:00,(POR FAVOR) LEE ESTO ANTES DE CONTINUAR :D,3,0,0
 Miguel Linares,False,2021-12-03 21:14:51+00:00,2021-12-03 21:15:08+00:00,2022-04-15 16:19:21+00:00,¿QUIÉNES SOMOS?,64,0,0
 Elizabeth,False,2020-11-30 18:49:50+00:00,2021-09-25 18:14:16+00:00,2021-10-09 23:01:20+00:00,(POR FAVOR) LEE ESTO ANTES DE CONTINUAR :D,3,0,0
@@ -141,24 +144,24 @@ Jonatan Piuma,False,2021-08-31 11:23:06+00:00,2021-08-31 11:23:29+00:00,2022-03-
 Joseluis,False,2021-01-13 04:29:33+00:00,,,,0,0,0
 Jefferson Erandhy Baños López,False,2021-07-09 04:38:10+00:00,,2021-07-09 04:38:55+00:00,,0,0,0
 Byron Zapata,False,2022-01-31 12:47:58+00:00,2022-01-31 12:59:53+00:00,2022-04-26 13:50:17+00:00,Un mensaje....,97,0,0
-Crhistian Rodrigo Alcántara Sánchez,False,2022-05-11 14:23:05+00:00,2022-05-11 14:23:28+00:00,2022-05-11 15:11:57+00:00,Parámetros Denavit - Hartenberg,5,0,0
+Crhistian Rodrigo Alcántara Sánchez,False,2022-05-11 14:23:05+00:00,2022-05-11 14:23:28+00:00,2022-05-18 15:57:08+00:00,Cinemática Inversa: Realimentación del Error (Axis - Angle),5,0,0
 Jorge Barrera Tecolote,False,2021-08-12 02:27:55+00:00,2021-08-12 02:28:41+00:00,2021-09-16 16:17:33+00:00,GITHUB (•̀ᴗ•́)و,23,0,0
-Jonathan Hernández Báez,False,2020-11-27 13:22:04+00:00,2020-11-30 14:22:45+00:00,2021-09-14 23:01:47+00:00,Ejemplo I: Operaciones con Cuaterniones Duales,39,1,0
+Jonathan Hernández Báez,False,2020-11-27 13:22:04+00:00,2020-11-30 14:22:45+00:00,2021-09-14 23:01:47+00:00,Ejemplo I: Operaciones con Cuaterniones Duales,34,1,0
 Daniel Galván Pérez,False,2022-02-16 18:12:11+00:00,2022-02-20 19:57:58+00:00,2022-04-16 18:17:32+00:00,¿QUIÉNES SOMOS?,6,0,0
 Jorge Satomi Minami Aguilera,False,2022-01-20 12:20:30+00:00,,,,0,0,0
-Alfonso Islas Olguin,False,2022-03-29 23:12:15+00:00,2022-03-29 23:17:36+00:00,2022-03-30 04:02:11+00:00,Ejemplo I: Matriz Jacobiana & Robotics Toolbox,25,0,0
+Alfonso Islas Olguin,False,2022-03-29 23:12:15+00:00,2022-03-29 23:17:36+00:00,2022-03-30 04:02:11+00:00,Ejemplo I: Matriz Jacobiana & Robotics Toolbox,24,0,0
 Carlos Yazid Prudencio Torrico,False,2021-03-03 00:53:27+00:00,2021-05-02 16:14:14+00:00,2021-05-30 23:53:01+00:00,Cinemática Directa: Matrices de Transformación Homogénea,44,0,0
 Kerlinger Morales Palomino,False,2021-11-25 23:47:37+00:00,,2021-11-25 23:47:38+00:00,,0,0,0
 Cristian Basoalto,False,2021-04-07 16:54:05+00:00,2021-08-06 03:50:50+00:00,2022-01-17 19:51:48+00:00,Posición Relativa,5,0,0
 Fermin,False,2022-01-12 12:52:08+00:00,2022-01-12 15:21:10+00:00,2022-01-12 15:21:15+00:00,(POR FAVOR) LEE ESTO ANTES DE CONTINUAR :D,2,0,0
-Farid,False,2020-10-16 03:33:35+00:00,2020-10-22 17:10:50+00:00,2021-03-26 16:31:00+00:00,Ejemplo I: Matriz Jacobiana & Robotics Toolbox,29,0,0
+Farid,False,2020-10-16 03:33:35+00:00,2020-10-22 17:10:50+00:00,2021-03-26 16:31:00+00:00,Ejemplo I: Matriz Jacobiana & Robotics Toolbox,24,0,0
 Rafael sanchez lara,False,2021-02-08 06:05:54+00:00,2021-05-12 21:30:18+00:00,2021-05-13 03:36:00+00:00,Ejemplo I: Posición Relativa de un Cuerpo Rígido,14,0,0
 Jose Noe,False,2020-11-27 23:50:49+00:00,2020-11-28 00:03:33+00:00,2022-03-24 00:15:44+00:00,(POR FAVOR) LEE ESTO ANTES DE CONTINUAR :D,58,0,0
 Isaias Esquivel Gaytan,False,2021-04-23 21:47:23+00:00,2021-04-23 22:42:11+00:00,2021-10-06 01:18:27+00:00,Conceptos Básicos,23,0,0
 Alanio Ferreira de Lima,False,2022-04-19 03:14:25+00:00,,,,0,0,0
 Jose Alejandro Perez Bahamondes,False,2021-03-12 02:24:07+00:00,2021-11-26 13:16:40+00:00,2022-05-08 15:50:25+00:00,Introducción,2,0,0
 Eduardo Pérez Cortés Rodríguez,False,2021-01-04 22:26:46+00:00,,2021-01-12 00:34:44+00:00,,0,0,0
-Montiel Tinoco Oscar Ricardo,False,2020-08-27 16:39:16+00:00,2020-11-17 05:44:51+00:00,2022-04-30 00:46:09+00:00,¿Qué es la Robótica?,3,0,0
+Montiel Tinoco Oscar Ricardo,False,2020-08-27 16:39:16+00:00,2020-11-17 05:44:51+00:00,2022-05-23 18:43:35+00:00,¿Qué es la Robótica?,3,0,0
 Edgardo,False,2020-08-14 22:02:45+00:00,,2020-08-14 22:03:08+00:00,,0,0,0
 Jorge Mateo Juarez,False,2022-04-08 20:40:15+00:00,,,,0,0,0
 Sergio Oviedo,False,2021-05-09 00:36:15+00:00,2021-05-18 17:16:12+00:00,2022-03-24 15:57:04+00:00,Conceptos Básicos,34,0,0
@@ -169,20 +172,20 @@ Luis Cruzado Peña,False,2021-05-27 17:19:12+00:00,2021-05-27 23:11:34+00:00,202
 Patricio A.Trejo Aguilar,False,2021-07-27 03:59:08+00:00,2021-10-09 00:30:07+00:00,2022-04-09 22:30:22+00:00,Cuerpo Rígido: Conceptos y Propiedades,9,0,0
 Luis Avecilla,False,2021-05-23 04:48:20+00:00,2021-05-23 04:53:16+00:00,2022-01-16 12:30:19+00:00,ANTES DE COMENZAR :),9,0,0
 Michael Hemar Mamani Calcín,False,2021-12-29 22:24:46+00:00,,2022-03-14 03:57:08+00:00,,0,0,0
-Edyoha Abiram Vaquera Hernandez,False,2020-08-15 04:32:07+00:00,2020-08-15 04:35:53+00:00,2021-10-05 04:23:25+00:00,Control de un Robot con Incertidumbre,55,0,0
+Edyoha Abiram Vaquera Hernandez,False,2020-08-15 04:32:07+00:00,2020-08-15 04:35:53+00:00,2021-10-05 04:23:25+00:00,Control de un Robot con Incertidumbre,53,0,0
 Miguel Ángel Mora Pérez,False,2020-10-19 18:48:42+00:00,2020-11-16 05:32:36+00:00,2021-08-26 23:52:36+00:00,Postura Relativa,17,0,0
 Axel Jamil Castellanos Bejarano,False,2021-12-09 04:13:34+00:00,,2021-12-09 10:54:59+00:00,,0,0,0
 Enrique Guzman Velarde,False,2020-09-29 13:56:51+00:00,2020-10-04 13:46:29+00:00,2021-05-08 01:53:36+00:00,Ejemplo I: Matriz Jacobiana & Robotics Toolbox,44,0,0
-John Andrew Vasquez Martinez,False,2022-05-13 21:10:45+00:00,2022-05-13 21:24:18+00:00,2022-05-17 22:47:43+00:00,Parámetros Denavit - Hartenberg,41,0,0
+John Andrew Vasquez Martinez,False,2022-05-13 21:10:45+00:00,2022-05-13 21:24:18+00:00,2022-05-19 14:35:59+00:00,Matriz Jacobiana Geométrica,45,0,0
 Jesús Medina Cervantes,False,2020-08-14 18:22:31+00:00,2020-08-14 18:28:33+00:00,2020-11-26 02:15:52+00:00,Introducción,3,0,0
 Andres ZV,False,2021-11-29 03:38:32+00:00,2021-11-29 16:12:22+00:00,2022-01-04 17:05:02+00:00,Robótica: Ejemplos y Aplicaciones,6,0,0
 Rodolfo Ponce Reynoso,False,2021-03-08 00:09:01+00:00,2021-03-13 17:36:45+00:00,2022-04-28 14:14:54+00:00,Modelo Dinámico de un Robot II: Cálculo de Parámetros,78,0,0
 John Pabon,False,2020-08-19 00:32:29+00:00,2020-08-19 00:37:02+00:00,2022-05-14 06:30:28+00:00,(POR FAVOR) LEE ESTO ANTES DE CONTINUAR :D,32,0,0
 José Álvaro Vázquez Rivera,False,2021-02-01 18:14:56+00:00,2021-02-03 21:37:28+00:00,2021-08-17 04:52:42+00:00,Conceptos Básicos,23,0,0
-Alfredo Aguiar Arce,False,2020-09-20 18:24:50+00:00,2020-09-20 19:46:03+00:00,2021-11-22 04:30:01+00:00,Cinemática Inversa: Realimentación del Error (Axis - Angle),39,0,0
+Alfredo Aguiar Arce,False,2020-09-20 18:24:50+00:00,2020-09-20 19:46:03+00:00,2021-11-22 04:30:01+00:00,Cinemática Inversa: Realimentación del Error (Axis - Angle),34,0,0
 Eric Martin Pérez Reyes,False,2020-08-21 23:07:40+00:00,,2021-01-11 02:19:21+00:00,,0,0,0
 Rodolfo González Aguirre,False,2021-04-18 16:47:06+00:00,,2022-02-01 08:41:25+00:00,,0,0,0
-Roberto de Jesús Alfaro López,False,2021-01-01 20:57:19+00:00,2021-01-27 06:22:26+00:00,2021-01-27 07:03:39+00:00,Posición Relativa,11,0,0
+Roberto de Jesús Alfaro López,False,2021-01-01 20:57:19+00:00,2021-01-27 06:22:26+00:00,2021-01-27 07:03:39+00:00,Posición Relativa,9,0,0
 Carlos Enrique Moran Garabito,False,2021-01-04 19:23:36+00:00,2021-01-27 22:46:28+00:00,2021-11-30 21:10:10+00:00,(POR FAVOR) LEE ESTO ANTES DE CONTINUAR :D,64,0,0
 Hiram Asahel Partida Villarreal,False,2020-11-08 22:45:42+00:00,2020-12-19 01:11:35+00:00,2022-04-15 11:12:30+00:00,Orientación Relativa,19,0,0
 Diego Martinez Montes,False,2020-09-16 14:42:39+00:00,2020-11-27 05:13:44+00:00,2021-12-01 02:39:14+00:00,¿Qué es la Robótica?,4,0,0
@@ -201,7 +204,7 @@ Carlos Aguilar,False,2021-06-24 04:46:32+00:00,2021-06-24 06:09:43+00:00,2021-08
 Bruno Pérez Medellín,False,2020-09-12 02:06:49+00:00,,2021-02-22 16:43:52+00:00,,0,0,0
 Jose Manuel Segura Lopez,False,2020-09-22 01:34:00+00:00,2020-09-22 14:04:58+00:00,2022-04-08 03:48:48+00:00,Cinemática Directa: Matrices de Transformación Homogénea,34,0,0
 Ronald,False,2020-10-23 22:54:35+00:00,2020-10-29 03:28:26+00:00,2022-05-11 21:48:33+00:00,(POR FAVOR) LEE ESTO ANTES DE CONTINUAR :D,20,0,0
-Diego Atzin Pineda Cota,False,2020-12-07 08:07:34+00:00,2020-12-07 19:01:52+00:00,2021-11-05 23:13:14+00:00,Ejemplo I: Matriz Jacobiana & Robotics Toolbox,28,0,0
+Diego Atzin Pineda Cota,False,2020-12-07 08:07:34+00:00,2020-12-07 19:01:52+00:00,2021-11-05 23:13:14+00:00,Ejemplo I: Matriz Jacobiana & Robotics Toolbox,24,0,0
 Magdiel Emmanuel Cortés Flores,False,2022-01-07 05:52:43+00:00,2022-01-21 13:29:40+00:00,2022-04-03 17:51:35+00:00,Conceptos Básicos,24,0,0
 Horacio León Camacho,False,2020-11-21 04:17:49+00:00,2020-11-23 03:08:53+00:00,2021-03-16 18:38:59+00:00,Introducción,57,1,0
 Alexis Hernández,False,2021-08-11 20:35:11+00:00,2021-09-05 15:20:13+00:00,2021-09-07 07:52:55+00:00,Cinemática Inversa: Realimentación del Error (Cuaterniones Duales),17,0,0
@@ -210,7 +213,7 @@ Eduardo Machado Diaz,False,2022-02-03 03:08:41+00:00,,2022-02-20 02:27:05+00:00,
 Sergio Miguel Delfin Prieto,False,2021-08-09 17:44:55+00:00,2021-08-24 01:02:03+00:00,2022-01-10 21:51:37+00:00,Posición Relativa,38,0,0
 Carlos,False,2020-12-16 01:25:25+00:00,2020-12-16 01:38:00+00:00,2021-03-16 01:55:16+00:00,Operaciones con Cuaterniones Duales II,34,0,0
 Ernesto Emilio Verástegui Ñahuiz,False,2022-03-01 21:27:09+00:00,,,,0,0,0
-John Barrionuevo,False,2020-10-20 19:17:11+00:00,2020-10-26 00:17:01+00:00,2021-07-19 14:57:03+00:00,zRobotics 0.1 Beta,61,0,0
+John Barrionuevo,False,2020-10-20 19:17:11+00:00,2020-10-26 00:17:01+00:00,2021-07-19 14:57:03+00:00,zRobotics 0.1 Beta,59,0,0
 Lizbeth del Carmen Ortiz Gutierrez,False,2021-03-17 02:16:55+00:00,2021-03-17 02:57:57+00:00,2022-01-27 05:49:57+00:00,GITHUB (•̀ᴗ•́)و,72,0,0
 Oscar Sierra,False,2021-11-27 02:29:00+00:00,2021-11-27 05:05:45+00:00,2022-05-17 22:16:25+00:00,Matriz Jacobiana Geométrica,45,0,0
 Luis May,False,2020-10-25 23:56:01+00:00,2020-10-26 01:09:44+00:00,2020-12-15 06:41:16+00:00,Cinemática Directa: Matrices de Transformación Homogénea,23,0,0
@@ -229,6 +232,7 @@ Luis Eduardo Galván Aguilar,False,2022-01-07 18:51:44+00:00,,2022-03-31 01:26:0
 Pablo Jesús Guzmán Churata,False,2020-12-23 02:02:46+00:00,2020-12-23 02:07:23+00:00,2021-03-30 02:29:18+00:00,Orientación Relativa,14,0,0
 Luis Angel Fuentes Alvarez,False,2020-12-23 16:10:51+00:00,2020-12-23 18:27:41+00:00,2022-01-12 03:57:40+00:00,Introducción,24,0,0
 Abraham,False,2020-12-31 01:42:34+00:00,,,,0,0,0
+Luis Antonio Gonzalez Hernandez,False,2022-05-20 02:45:52+00:00,,,,0,0,0
 Porfirio Avila Orihuela,False,2022-04-27 15:53:59+00:00,2022-04-27 15:58:33+00:00,2022-04-27 18:53:19+00:00,ANTES DE COMENZAR :),5,0,0
 Cristian Mancilla,False,2021-11-30 17:01:37+00:00,2021-12-09 00:51:04+00:00,2022-02-23 15:17:22+00:00,(POR FAVOR) LEE ESTO ANTES DE CONTINUAR :D,2,0,0
 Jorge Manuel Castro,False,2021-01-15 22:16:45+00:00,2021-01-16 16:29:40+00:00,2021-09-01 01:04:20+00:00,Introducción,4,0,0
@@ -236,11 +240,11 @@ Yucely Beb Caal,False,2021-01-18 13:40:13+00:00,2021-01-18 15:08:43+00:00,2021-0
 Herubey Acosta,False,2021-02-13 01:21:53+00:00,2021-02-22 02:26:59+00:00,2021-05-01 01:55:31+00:00,ANTES DE COMENZAR :),9,0,0
 Jorge Andrés Veloz Mena,False,2021-02-15 04:39:58+00:00,2021-03-06 19:40:11+00:00,2022-05-13 19:24:54+00:00,Ejemplo I: Posición Relativa de un Cuerpo Rígido,12,0,0
 Camilo Saballeth,False,2021-02-15 20:56:26+00:00,2021-02-15 21:01:04+00:00,2021-04-27 01:28:48+00:00,ANTES DE COMENZAR :),4,0,0
-Jose Gregorio Reyes Montilla,False,2021-02-14 17:12:18+00:00,2021-06-30 11:26:15+00:00,2022-02-23 16:41:01+00:00,Ejemplo III: Postura Relativa de un Cuerpo Rígido con MATLAB,32,0,0
+Jose Gregorio Reyes Montilla,False,2021-02-14 17:12:18+00:00,2021-06-30 11:26:15+00:00,2022-05-20 16:07:56+00:00,Ejemplo III: Postura Relativa de un Cuerpo Rígido con MATLAB,32,0,0
 Alejandro Gálvez Gámez,False,2021-08-17 20:53:56+00:00,,,,0,0,0
 Oswaldo Madrigal Martinez,False,2021-11-11 22:37:42+00:00,,2022-02-16 17:57:36+00:00,,0,0,0
 José Cristóbal Medina Huerta,False,2022-04-05 14:27:30+00:00,2022-04-05 15:02:33+00:00,2022-04-14 13:31:10+00:00,Posición Relativa,36,0,0
-Jheyko Alandia Ramos,False,2021-06-29 15:16:17+00:00,2021-06-29 15:28:20+00:00,2021-07-20 02:43:08+00:00,Robótica: Ejemplos y Aplicaciones,39,0,0
+Jheyko Alandia Ramos,False,2021-06-29 15:16:17+00:00,2021-06-29 15:28:20+00:00,2021-07-20 02:43:08+00:00,Robótica: Ejemplos y Aplicaciones,34,0,0
 Carlos Eduardo Díaz Gutiérrez,False,2021-02-23 23:34:10+00:00,2021-02-26 02:23:58+00:00,2021-03-17 02:14:40+00:00,Cinemática Directa: Matrices de Transformación Homogénea,43,0,0
 Carlos Yemada,False,2021-02-07 00:54:17+00:00,,2021-02-07 01:10:43+00:00,,0,0,0
 Morian Rojas,False,2021-02-07 20:04:08+00:00,2021-02-07 23:14:58+00:00,2021-09-22 02:34:22+00:00,Un mensaje....,57,0,0
@@ -253,7 +257,7 @@ Francis Reyes Nájar,False,2021-02-23 05:00:39+00:00,2021-02-23 05:18:58+00:00,2
 Rosendo Valdés Hernandez,False,2021-02-23 22:19:31+00:00,2021-10-25 03:58:23+00:00,2022-02-17 23:19:15+00:00,Cinemática Inversa: Realimentación del Error (Cuaterniones Duales),72,0,0
 José Ángel Bruno Peña,False,2021-09-14 17:47:16+00:00,2021-10-06 03:58:49+00:00,2021-12-15 16:44:21+00:00,(POR FAVOR) LEE ESTO ANTES DE CONTINUAR :D,72,0,0
 David Limon Cruz,False,2021-03-08 21:23:29+00:00,2021-11-10 21:00:52+00:00,2021-11-10 21:00:57+00:00,(POR FAVOR) LEE ESTO ANTES DE CONTINUAR :D,3,0,0
-Alberto Alcocer Espinosa,False,2021-03-02 22:28:06+00:00,2021-03-03 21:13:08+00:00,2022-01-11 01:19:33+00:00,Un mensaje....,60,0,0
+Alberto Alcocer Espinosa,False,2021-03-02 22:28:06+00:00,2021-03-03 21:13:08+00:00,2022-01-11 01:19:33+00:00,Un mensaje....,58,0,0
 Fidel Alejandro Sánchez Rios,False,2021-03-24 16:52:50+00:00,2021-03-25 03:23:54+00:00,2021-08-15 00:29:03+00:00,(POR FAVOR) LEE ESTO ANTES DE CONTINUAR :D,14,0,0
 Julio Camilo Ceja Camarena,False,2021-03-11 05:44:38+00:00,,2021-08-20 17:18:37+00:00,,0,0,0
 Bryan Antonio Gonzalez Ibarra,False,2021-03-11 18:14:24+00:00,2021-03-11 18:49:13+00:00,2021-11-17 23:51:04+00:00,ANTES DE COMENZAR :),9,0,0
@@ -268,14 +272,14 @@ Rodrigo Casas,False,2021-04-11 19:48:55+00:00,2021-04-11 19:55:42+00:00,2021-08-
 Luis Antonio Orbegoso Moreno,False,2021-04-13 20:26:42+00:00,2021-04-13 22:53:55+00:00,2022-03-11 23:16:53+00:00,Cinemática Directa II: Centros Instantáneos de Rotación,72,0,0
 Moises,False,2021-05-27 02:54:37+00:00,2021-06-23 22:37:26+00:00,2021-06-23 22:37:31+00:00,(POR FAVOR) LEE ESTO ANTES DE CONTINUAR :D,3,0,0
 Iram Hernández,False,2021-07-19 02:24:17+00:00,2021-07-19 02:24:49+00:00,2021-07-21 00:41:11+00:00,GITHUB (•̀ᴗ•́)و,23,0,0
-Juan Ernesto Gonzalez,False,2021-04-16 13:18:22+00:00,2021-04-23 22:59:43+00:00,2022-05-02 21:06:34+00:00,Control de un Robot en el Espacio Cartesiano,90,0,0
+Juan Ernesto Gonzalez,False,2021-04-16 13:18:22+00:00,2021-04-23 22:59:43+00:00,2022-05-02 21:06:34+00:00,Control de un Robot en el Espacio Cartesiano,87,0,0
 Sergio,False,2021-04-28 01:24:27+00:00,,2021-04-28 01:33:20+00:00,,0,0,0
-Cesar Rojas,False,2021-07-16 13:25:13+00:00,2021-07-16 16:11:08+00:00,2021-07-17 02:33:56+00:00,Posición Relativa,11,0,0
+Cesar Rojas,False,2021-07-16 13:25:13+00:00,2021-07-16 16:11:08+00:00,2021-07-17 02:33:56+00:00,Posición Relativa,9,0,0
 Oscar Ulises Cervantes García,False,2021-10-24 22:29:38+00:00,2021-10-24 22:34:45+00:00,2022-01-16 23:14:30+00:00,Ejemplo I: Matriz Jacobiana & Robotics Toolbox,49,0,0
 Jesse Christian Roberts Cruz,False,2021-05-06 05:01:01+00:00,,,,0,0,0
 Marlon Alexander Vidal sanmartin,False,2021-05-14 15:09:40+00:00,2021-05-17 07:22:53+00:00,2022-02-03 01:23:08+00:00,ANTES DE COMENZAR :),9,0,0
 Martin Bect Parra,False,2021-05-12 06:13:45+00:00,2022-01-31 09:55:33+00:00,2022-01-31 10:00:31+00:00,ANTES DE COMENZAR :),6,0,0
-jose Danel Berenguel,False,2022-04-21 18:13:38+00:00,,2022-04-28 20:47:17+00:00,,0,0,0
+jose Danel Berenguel,False,2022-04-21 18:13:38+00:00,2022-05-21 15:14:03+00:00,2022-05-24 18:30:25+00:00,Operaciones con Cuaterniones,20,0,0
 Azael Medina Haro,False,2021-10-22 17:42:08+00:00,2021-10-26 00:35:21+00:00,2022-05-05 23:17:45+00:00,Postura Relativa,63,0,0
 Javier del ángel Hernández,False,2022-01-06 06:30:46+00:00,,,,0,0,0
 Daniel Melchor Equihua,False,2021-05-17 15:25:59+00:00,2021-06-25 11:40:04+00:00,2021-09-07 18:10:44+00:00,Introducción,4,0,0
@@ -286,18 +290,18 @@ jonathan infante,False,2021-05-31 14:37:12+00:00,,2021-07-11 09:46:38+00:00,,0,0
 Ana Laura Centeno,False,2021-11-11 20:26:44+00:00,2021-11-11 20:27:46+00:00,2022-02-11 00:09:14+00:00,Cinemática Inversa,23,0,0
 José Guadalupe Alvarez Robles,False,2021-06-01 02:35:32+00:00,,,,0,0,0
 José Alonso González Escobar,False,2021-06-22 03:33:58+00:00,2021-06-29 03:51:50+00:00,2021-07-13 04:06:17+00:00,Ejemplo I: Posición Relativa de un Cuerpo Rígido,14,0,0
-Iván Osorio,False,2022-01-01 19:34:29+00:00,,2022-02-22 19:23:57+00:00,,0,0,0
+Iván Osorio,False,2022-01-01 19:34:29+00:00,,2022-05-21 16:12:08+00:00,,0,0,0
 Alejandro De Lucio,False,2021-06-08 00:43:51+00:00,2021-06-08 00:49:40+00:00,2021-12-15 14:38:09+00:00,Control de un Robot con Incertidumbre,64,1,1
 Eric Palomino,False,2021-06-09 15:57:22+00:00,2021-06-09 15:57:52+00:00,2021-08-12 15:04:32+00:00,Un mensaje....,64,0,0
-Cruz Fernando López Olvera,False,2021-09-30 16:28:55+00:00,2021-10-01 03:51:03+00:00,2022-05-15 00:47:32+00:00,Ejemplo I: Matriz Jacobiana & Robotics Toolbox,50,0,0
+Cruz Fernando López Olvera,False,2021-09-30 16:28:55+00:00,2021-10-01 03:51:03+00:00,2022-05-15 00:47:32+00:00,Ejemplo I: Matriz Jacobiana & Robotics Toolbox,49,0,0
 Raymundo Cruz García,False,2022-01-05 14:05:49+00:00,2022-01-07 01:15:54+00:00,2022-03-13 02:11:14+00:00,Ejemplo I: Posición Relativa de un Cuerpo Rígido,14,0,0
 Mirko Josue Ramirez Calles,False,2021-11-25 20:42:16+00:00,,,,0,0,0
 Nahim Diaz,False,2021-07-01 00:30:02+00:00,,,,0,0,0
-Rubén Estévez Sánchez,False,2021-07-06 09:49:22+00:00,2021-10-26 21:28:47+00:00,2021-12-17 23:08:05+00:00,Cuerpo Rígido: Conceptos y Propiedades,10,0,0
+Rubén Estévez Sánchez,False,2021-07-06 09:49:22+00:00,2021-10-26 21:28:47+00:00,2021-12-17 23:08:05+00:00,Cuerpo Rígido: Conceptos y Propiedades,9,0,0
 Alejandro Benavides Chaves,False,2021-07-12 04:04:55+00:00,2021-07-12 04:06:09+00:00,2021-07-26 04:02:29+00:00,Ejemplo I: Posición Relativa de un Cuerpo Rígido,14,0,0
-Quilar Quintero Nolasco,False,2022-03-31 20:44:40+00:00,,2022-03-31 20:52:01+00:00,,0,0,0
-José Francisco Villa Tiburcio,False,2021-12-07 18:07:05+00:00,2022-03-05 18:57:14+00:00,2022-05-02 04:17:45+00:00,Velocidad y Aceleración en los Centros de Masa,89,0,0
-Ángel Ulises Loredo Vargas,False,2021-07-26 17:12:21+00:00,,2021-09-15 16:15:34+00:00,,0,0,0
+Quilar Quintero Nolasco,False,2022-03-31 20:44:40+00:00,2022-05-20 20:51:42+00:00,2022-05-20 20:59:20+00:00,Robótica: Ejemplos y Aplicaciones,5,0,0
+José Francisco Villa Tiburcio,False,2021-12-07 18:07:05+00:00,2022-03-05 18:57:14+00:00,2022-05-02 04:17:45+00:00,Velocidad y Aceleración en los Centros de Masa,83,0,0
+Ángel Ulises Loredo Vargas,False,2021-07-26 17:12:21+00:00,,2022-05-19 15:24:08+00:00,,0,0,0
 Juan José Rivas Ramírez,False,2021-08-07 19:23:08+00:00,2021-08-07 20:17:11+00:00,2022-02-25 16:36:12+00:00,¿QUIÉNES SOMOS?,64,0,0
 Jose,False,2022-04-30 03:57:39+00:00,2022-05-09 03:18:53+00:00,2022-05-09 03:50:35+00:00,GITHUB (•̀ᴗ•́)و,2,0,0
 Nelson Broyer Paco Chipana,False,2021-08-13 04:29:06+00:00,2021-08-16 03:53:00+00:00,2021-12-26 23:45:17+00:00,Conceptos Básicos,23,0,0
@@ -321,7 +325,7 @@ jairo jeremías Ricaldi Morales,False,2021-09-06 03:11:32+00:00,2021-09-06 11:42
 Luis Angel De La Rosa Jiménez,False,2021-11-22 03:01:21+00:00,2021-11-22 06:09:29+00:00,2022-01-21 00:38:02+00:00,Posición Relativa,28,1,0
 Rigoberto Quintanar M,False,2021-10-18 13:08:09+00:00,2021-10-22 05:11:43+00:00,2021-11-17 01:15:50+00:00,Introducción,4,0,0
 Eliud González Vázquez,False,2022-05-17 21:53:38+00:00,,,,0,0,0
-Edgar Nava bautista,False,2022-01-20 15:39:06+00:00,2022-01-20 15:43:21+00:00,2022-02-16 00:12:00+00:00,Posición Relativa,10,0,0
+Edgar Nava bautista,False,2022-01-20 15:39:06+00:00,2022-01-20 15:43:21+00:00,2022-02-16 00:12:00+00:00,Posición Relativa,9,0,0
 Valentina Espinoza,False,2021-09-25 16:08:47+00:00,2021-09-25 16:10:08+00:00,2021-11-03 22:49:42+00:00,Cinemática Inversa: Realimentación del Error (Cuaterniones Duales),5,0,0
 Diego Gonzalez,False,2021-12-04 06:53:12+00:00,,,,0,0,0
 o a,False,2021-10-13 04:11:08+00:00,2021-10-13 20:42:46+00:00,2021-10-15 16:53:28+00:00,(POR FAVOR) LEE ESTO ANTES DE CONTINUAR :D,3,0,0
@@ -330,7 +334,7 @@ Italo Fabrizzio Gianella Carbajal,False,2022-02-23 01:27:46+00:00,2022-02-23 02:
 Isaac,False,2021-10-29 22:02:50+00:00,,,,0,0,0
 Juan Tortillas,False,2021-10-27 16:31:00+00:00,2021-10-27 16:33:44+00:00,2021-10-27 16:34:49+00:00,¿QUIÉNES SOMOS?,64,0,0
 Daniel Alvarado,False,2021-11-01 15:20:17+00:00,2021-11-01 15:20:38+00:00,2022-05-13 15:03:58+00:00,Modelo Dinámico de un Robot I: Demostración,71,1,1
-Pablo López Guevara,False,2021-11-25 16:39:36+00:00,2021-11-25 16:39:52+00:00,2022-05-13 14:30:56+00:00,Manos a la Obra: Construcción de un Robot Paralelo en GeoGebra,20,0,0
+Pablo López Guevara,False,2021-11-25 16:39:36+00:00,2021-11-25 16:39:52+00:00,2022-05-23 21:56:52+00:00,Manos a la Obra: Construcción de un Robot Paralelo en GeoGebra,20,0,0
 Julian Conde,False,2021-12-04 05:31:30+00:00,2021-12-04 12:33:46+00:00,2022-01-11 10:04:09+00:00,(POR FAVOR) LEE ESTO ANTES DE CONTINUAR :D,2,0,0
 Jonathan Santa Cruz,False,2021-11-20 19:31:38+00:00,,2021-11-25 21:11:09+00:00,,0,0,0
 Guadalupe Pereira Cortez,False,2021-11-27 02:53:40+00:00,2021-12-14 01:24:58+00:00,2022-01-06 17:11:58+00:00,Orientación Relativa,14,0,0
@@ -340,13 +344,14 @@ Elena Tovar,False,2021-11-25 16:24:34+00:00,2021-11-25 16:25:10+00:00,2021-11-25
 Oliver Bertel Zapana Apaza,False,2022-01-08 02:09:23+00:00,,2022-04-17 01:22:00+00:00,,0,0,0
 Eduardo Oropesa Rodríguez,False,2021-12-07 17:39:33+00:00,2021-12-07 17:41:17+00:00,2022-02-17 21:51:40+00:00,Cinemática Inversa,72,1,0
 Ricardo Casimiro,False,2022-05-10 15:37:00+00:00,2022-05-10 16:49:19+00:00,2022-05-10 16:57:39+00:00,ANTES DE COMENZAR :),6,0,0
+Hiro DC,False,2022-05-23 08:27:41+00:00,,,,0,0,0
 Joaquin Loaiza,False,2022-04-26 17:05:32+00:00,,,,0,0,0
 Carlos Armando Góngora Salazar,False,2022-04-07 15:34:37+00:00,2022-04-08 21:46:28+00:00,2022-05-16 16:30:41+00:00,Orientación Relativa,10,0,0
 Luis Adalberto Reina Ceballos,False,2022-04-07 17:58:12+00:00,2022-04-08 22:30:00+00:00,2022-04-08 22:50:13+00:00,Ejemplo I: Posición Relativa de un Cuerpo Rígido,10,0,0
 Miguel Villar,False,2022-01-04 01:58:48+00:00,,,,0,0,0
 Alexander Salas,False,2022-01-07 03:07:28+00:00,2022-01-07 03:08:17+00:00,2022-02-08 00:59:10+00:00,Manos a la Obra: Construcción de un Robot Paralelo en GeoGebra,14,0,0
 Angel Eduardo,False,2022-01-27 04:20:50+00:00,2022-02-08 04:15:36+00:00,2022-05-03 03:02:03+00:00,Postura Relativa,30,0,0
-Juan Luis Vázquez Ramírez,False,2022-02-26 02:09:15+00:00,2022-04-17 08:45:39+00:00,2022-05-03 05:09:32+00:00,Posición Relativa,5,0,0
+Juan Luis Vázquez Ramírez,False,2022-02-26 02:09:15+00:00,2022-04-17 08:45:39+00:00,2022-05-22 02:36:16+00:00,Posición Relativa,5,0,0
 María Cordero,False,2022-02-06 03:48:55+00:00,,,,0,0,0
 Leonardo Quintero,False,2022-02-10 02:55:06+00:00,,2022-02-20 23:36:33+00:00,,0,0,0
 Jorge,False,2022-03-04 12:48:45+00:00,2022-03-04 12:49:13+00:00,2022-03-16 20:35:50+00:00,GITHUB (•̀ᴗ•́)و,14,0,0

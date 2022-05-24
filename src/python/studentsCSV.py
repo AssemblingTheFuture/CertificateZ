@@ -143,8 +143,17 @@ def showData(certificates, addresses, contractsURL):
             # If current student has finished the current course
             if course in certificates[name]:
                 
-                # Address of smart contract
-                url = contractsURL + addresses[name][course] + "/storage" if not "Udemy" in addresses[name][course] else "https://udemy.com/"
+                # If student is already registered in addresses.csv
+                if name in addresses:
+
+                    # Address of smart contract
+                    url = contractsURL + addresses[name][course] + "/storage" if not "Udemy" in addresses[name][course] else "https://udemy.com/"
+                
+                # If it is not registered
+                else:
+                    
+                    # Address of smart contract and URL will be empty
+                    url = "#"
                 
                 # Get the addresses of the smart contracts if the current student took the course
                 row <= TD(A(certificates[name][course], href = url, target = "_blank"))
