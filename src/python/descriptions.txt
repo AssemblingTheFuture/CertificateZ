@@ -20,7 +20,7 @@ shortDescription = "has successfully completed the +10 hours Profesional Trainin
 
 longDescription = "This certificate acknowledges that students developed and improved their skills in Robotics. They acquired theoretical and hands-on experience on kinematics, dynamics and control of robotic systems using MATLAB, Simulink and Python after completing several assignments about solving real-life problems, using basic algorithms up to advanced simulations"
 
-learningModules = ["Kinematics", "Dual Quaternions", "Dynamics"]
+learningModules = ["MATLAB/Simulink", "Dual Quaternions", "Kinematics", "Differential Kinematics", "Dynamic Modelling", "Robot Control", "Parallel Robots"]
 
 PYTHON ROBOTICS:
 

@@ -1,5 +1,5 @@
 Student Name,Udemy Business,Enrolled,Started Date,Last Visited,Lecture Last Viewed,Progress,Questions Asked,Questions Answered
-Abiel Fernandez Alvarado,False,2022-01-03 05:14:00+00:00,,,,0,0,0
+Abiel Fernandez Alvarado,False,2022-01-03 05:14:00+00:00,2022-07-02 01:36:32+00:00,2022-07-05 11:34:39+00:00,(POR FAVOR) LEE ESTO ANTES DE COMENZAR :D,2,0,0
 Rodmy Cespedes,False,2021-08-14 05:16:32+00:00,,,,0,0,0
 ERIK FRANCISCO TORRECILLA COPTO,False,2021-02-24 14:46:35+00:00,2021-02-24 14:55:01+00:00,2021-11-29 18:58:44+00:00,[GUÍA] - ¿Qué es un Controlador PID? Un acercamiento a su principio matemático,46,0,0
 Tovias Castro,False,2020-06-28 03:39:43+00:00,2021-12-01 03:03:02+00:00,2021-12-01 03:36:19+00:00,Ejemplo I - Motor de Corriente Directa en Espacio de Estados,20,0,0
@@ -15,12 +15,12 @@ Mariana González Chávez,False,2020-05-05 19:45:58+00:00,,2021-03-11 05:09:59+0
 Mauricio Padilla,False,2021-08-19 05:00:55+00:00,,2022-02-13 05:07:27+00:00,,0,0,0
 Cesar Andre Valderrama Espinoza,False,2020-10-04 16:47:30+00:00,2020-10-05 03:10:24+00:00,2022-04-11 04:20:06+00:00,Ecuaciones de Euler - Lagrange,29,0,0
 Erick Najera Hernandez,False,2019-11-29 15:25:43+00:00,,2022-02-05 13:28:32+00:00,,0,0,0
-Diana Desire Herrera Jimenez,False,2019-06-14 03:04:05+00:00,2019-06-18 03:25:38+00:00,2021-03-18 02:08:17+00:00,Ejemplo III - Péndulo Invertido,89,2,1
+Diana Desire Herrera Jimenez,False,2019-06-14 03:04:05+00:00,2019-06-18 03:25:38+00:00,2022-07-05 05:28:27+00:00,Ejemplo III - Péndulo Invertido,89,2,1
 Jossue Hernández,False,2019-07-12 11:11:48+00:00,2020-07-27 17:14:16+00:00,2021-01-08 18:16:37+00:00,Ejemplo I - Sistema Masa - Resorte,28,0,0
 Uziel Grajeda,False,2020-05-26 21:11:48+00:00,2020-05-26 21:14:11+00:00,2020-06-07 23:41:51+00:00,Control Proporcional - Integral (PI),62,0,0
 Javier Portugal,False,2021-09-10 01:40:44+00:00,2021-12-04 04:26:40+00:00,2021-12-04 04:27:57+00:00,Introducción,5,0,0
 Alan Daniel Pérez García,False,2020-09-09 04:18:39+00:00,2020-09-09 04:20:14+00:00,2020-09-16 04:18:55+00:00,Solución de ecuaciones diferenciales por Variables Separables,11,0,0
-Carlospizarro Pizarro Valdivia,False,2020-09-15 12:41:44+00:00,2020-09-15 12:57:51+00:00,2022-05-16 18:42:16+00:00,Ejemplo I - Motor de Corriente Directa en Espacio de Estados,50,0,0
+Carlospizarro Pizarro Valdivia,False,2020-09-15 12:41:44+00:00,2020-09-15 12:57:51+00:00,2022-06-17 20:56:22+00:00,Análisis tipo Lyapunov (Lyapunov-like Analysis),52,0,0
 Pedro Fernando Flores Palmeros,False,2020-07-01 14:10:49+00:00,,2020-07-21 14:43:49+00:00,,0,0,0
 RLL SAT,False,2019-08-28 16:24:14+00:00,2019-08-28 16:39:01+00:00,2022-01-31 18:22:58+00:00,Ejemplo III - Control PID Autosintonizable,85,0,0
 Juan R. Lopez,False,2022-03-07 13:23:23+00:00,2022-03-07 13:25:15+00:00,2022-03-23 06:27:48+00:00,[GUÍA] - Estabilidad de Sistemas Dinámicos,55,0,0
@@ -89,27 +89,27 @@ Erick Rodríguez Hernández,False,2020-05-29 16:18:22+00:00,2020-05-30 16:09:57+
 Tonathiu Hernandez,False,2021-05-23 14:44:35+00:00,2021-05-29 02:29:21+00:00,2021-06-25 00:57:49+00:00,Diagrama de Bloques,20,0,0
 Cristian Luengo Baeza,False,2022-05-03 00:02:32+00:00,2022-05-03 12:38:31+00:00,2022-05-05 18:36:00+00:00,Ecuaciones Diferenciales,6,0,0
 Gabriel Sanchez,False,2022-05-12 01:09:21+00:00,2022-05-18 01:02:51+00:00,2022-05-21 03:51:46+00:00,Segunda Ley de Newton,20,0,0
-Ramón E. Tiznado,False,2022-05-24 18:27:12+00:00,2022-05-24 18:27:50+00:00,2022-05-24 18:27:55+00:00,(POR FAVOR) LEE ESTO ANTES DE COMENZAR :D,2,0,0
+Ramón E. Tiznado,False,2022-05-24 18:27:12+00:00,2022-05-24 18:27:50+00:00,2022-07-06 16:11:24+00:00,Ecuaciones Diferenciales,6,0,0
 Isaac Levi Hernández Guajardo,False,2019-07-04 19:05:55+00:00,2019-07-14 01:51:41+00:00,2020-03-13 15:55:58+00:00,Diagrama de Bloques,20,0,0
 Alberto Chillon,False,2020-12-31 12:48:33+00:00,2020-12-31 13:44:25+00:00,2020-12-31 14:07:24+00:00,Introducción,3,0,0
 Marc Segura Valls,False,2020-11-15 16:18:25+00:00,2020-11-15 16:22:30+00:00,2021-07-12 06:13:44+00:00,Ejemplo I - Control Activo de un Motor de Corriente Directa,40,0,0
 hapzek94 .,False,2021-05-18 19:16:02+00:00,2021-05-22 10:29:17+00:00,2022-06-13 17:29:59+00:00,Ejemplo I: Control Indirecto de un Motor de Corriente Directa,96,0,0
 Samuel Dagoberto Gutierrez Merino,False,2022-02-28 18:12:51+00:00,2022-02-28 18:15:13+00:00,2022-03-09 03:30:48+00:00,Ejemplo I - Sistema Masa - Resorte,20,0,0
-Armando Fabrisio Ponze de leon Portugal,False,2020-06-18 00:13:00+00:00,2020-06-20 06:38:16+00:00,2022-06-14 16:15:59+00:00,Ecuaciones de Euler - Lagrange,30,0,0
+Armando Fabrisio Ponze de leon Portugal,False,2020-06-18 00:13:00+00:00,2020-06-20 06:38:16+00:00,2022-07-04 15:40:31+00:00,Ecuaciones de Euler - Lagrange,30,0,0
 Luis Espinosa Sigüenza,False,2022-01-29 04:17:11+00:00,,,,0,0,0
 Marcio Aurelio Furtado Montezuma,False,2020-07-03 15:09:56+00:00,2020-07-03 15:11:39+00:00,2021-12-02 02:19:09+00:00,Sistemas Dinámicos,6,0,0
 Jaime Adrian Romero Pedregon,False,2021-10-25 18:51:17+00:00,2021-10-25 18:51:40+00:00,2022-04-09 09:17:53+00:00,Ejemplo VI - Motor de Corriente Directa,40,0,0
 César Alejandro Hernández Ledesma,False,2021-09-19 09:58:28+00:00,2021-09-19 10:35:22+00:00,2021-09-20 03:10:58+00:00,Solución de ecuaciones diferenciales por Variables Separables,11,0,0
 Luis Donaldo Pérez Hernández,False,2019-08-08 21:23:06+00:00,2019-08-17 04:24:54+00:00,2021-06-02 23:29:47+00:00,Control Proporcional - Integral - Derivativo (PID),50,0,0
-Guille García,False,2022-02-26 23:38:44+00:00,2022-02-26 23:47:38+00:00,2022-05-01 17:52:51+00:00,Segunda Ley de Newton,10,0,0
+Guille García,False,2022-02-26 23:38:44+00:00,2022-02-26 23:47:38+00:00,2022-07-04 15:38:01+00:00,Diagrama de Bloques,20,0,0
 Yael Abraham Gutiérrez Guzmán,False,2021-04-01 08:46:52+00:00,2021-04-02 08:33:55+00:00,2021-05-08 17:08:22+00:00,Solución de ecuaciones diferenciales por Variables Separables,10,0,0
 Victor Manuel Becerril Garcia,False,2021-02-22 17:41:17+00:00,2021-02-22 19:44:58+00:00,2021-04-05 20:49:57+00:00,Solución de ecuaciones diferenciales por Variables Separables,11,0,0
 Jorge Perez,False,2021-12-21 03:48:22+00:00,2022-01-07 03:12:10+00:00,2022-04-22 14:40:21+00:00,Ejemplo VI - Motor de Corriente Directa,26,0,0
-César Augusto Pilón Alcalá,False,2019-07-17 05:16:22+00:00,2021-05-20 19:08:57+00:00,2022-04-19 19:05:42+00:00,Sistemas Dinámicos,5,0,0
+César Augusto Pilón Alcalá,False,2019-07-17 05:16:22+00:00,2021-05-20 19:08:57+00:00,2022-06-20 18:11:27+00:00,[GRATIS] OBTÉN TU CERTIFICADO PROFESIONAL,5,0,0
 Amaury,False,2022-05-22 16:29:27+00:00,,,,0,0,0
 Obed samuel Alvarado flores,False,2020-01-19 20:54:53+00:00,2020-01-19 20:56:34+00:00,2022-01-13 04:26:59+00:00,(POR FAVOR) LEE ESTO ANTES DE COMENZAR :D,22,0,0
 Mauro Alatriste,False,2022-02-17 03:47:33+00:00,2022-02-21 16:33:52+00:00,2022-05-03 02:24:01+00:00,La Transformada de Laplace,10,0,0
-Nestor Giosue Lagunez Caramon,False,2022-05-17 19:49:53+00:00,2022-05-20 14:04:19+00:00,2022-05-26 22:12:43+00:00,[GUÍA] - Sistemas No Lineales: Más allá de la Superposición y Linealización,66,0,0
+Nestor Giosue Lagunez Caramon,False,2022-05-17 19:49:53+00:00,2022-05-20 14:04:19+00:00,2022-07-02 17:30:34+00:00,¿QUIÉNES SOMOS?,66,0,0
 Arzel Enrique Alvarado González,False,2022-05-26 04:40:49+00:00,2022-05-26 14:07:31+00:00,2022-05-26 14:22:49+00:00,Solución de ecuaciones diferenciales por Variables Separables,10,0,0
 Jesús Guadalupe Cabello Lima,False,2019-09-25 21:18:06+00:00,2019-09-25 21:19:26+00:00,2020-04-21 15:13:23+00:00,Diagrama de Bloques,28,0,0
 Rogerio,False,2021-12-07 02:59:22+00:00,2022-01-01 14:53:40+00:00,2022-03-26 05:58:23+00:00,Ecuaciones de Euler - Lagrange,11,0,0
@@ -117,12 +117,14 @@ Israel de Anda Ayala,False,2022-04-28 03:30:51+00:00,2022-04-28 03:31:55+00:00,2
 Martin Santos Dominguez,False,2021-12-31 01:24:37+00:00,,,,0,0,0
 Martin Rojas Orozco,False,2020-03-25 04:55:05+00:00,2020-04-09 00:25:09+00:00,2020-04-10 05:05:25+00:00,Leyes de Kirchhoff,34,0,0
 Jhonny Alvarez Neyra,False,2020-12-25 13:39:03+00:00,,,,0,0,0
+Esmeralda Reyna Aguilar Castillo,False,2022-06-29 17:59:29+00:00,,,,0,0,0
 Ulises Bañuelos Amezcua,False,2020-07-16 18:33:44+00:00,2020-07-16 18:35:40+00:00,2021-03-15 16:05:22+00:00,Espacio de Estados,40,0,0
 David Ortega De La Paz,False,2019-07-05 22:40:43+00:00,2019-07-08 22:29:43+00:00,2022-01-07 18:54:41+00:00,Un mensaje...,87,0,0
+Isaac Rocha Torres,False,2022-06-24 16:04:18+00:00,2022-06-27 15:52:32+00:00,2022-06-28 15:30:01+00:00,[GRATIS] OBTÉN TU CERTIFICADO PROFESIONAL,2,0,0
 Jorge Espino,False,2019-10-18 15:01:34+00:00,,2020-06-29 22:36:52+00:00,,0,0,0
 Jeovany Enrique López Polo,False,2022-04-16 03:15:47+00:00,,,,0,0,0
 David Ovalle,False,2021-12-30 17:51:33+00:00,,2022-01-23 23:46:17+00:00,,0,0,0
-Fernanda Maldonado,False,2021-11-10 20:40:06+00:00,2021-11-26 02:36:50+00:00,2022-05-04 20:57:54+00:00,Ejemplo II - Péndulo Simple,20,0,0
+Fernanda Maldonado,False,2021-11-10 20:40:06+00:00,2021-11-26 02:36:50+00:00,2022-06-22 01:11:05+00:00,Ejemplo II - Péndulo Simple,20,0,0
 Jesus Alejandro Pro Martinez,False,2021-11-27 03:42:48+00:00,2021-12-02 01:17:15+00:00,2022-02-10 17:31:55+00:00,Control Proporcional,46,0,0
 Javier Sanchez,False,2021-11-20 03:13:52+00:00,2021-11-28 11:49:40+00:00,2022-01-07 05:24:21+00:00,Introducción,5,0,0
 Fermin Castro Zamora,False,2020-11-22 21:41:51+00:00,2020-12-28 03:53:18+00:00,2022-06-07 13:49:00+00:00,[GUÍA] - Estabilidad de Sistemas Dinámicos,56,0,0
@@ -139,8 +141,8 @@ Anthony Porras Uchofen,False,2021-08-31 18:20:06+00:00,2021-09-01 03:07:53+00:00
 Carlos Ríos Ramírez,False,2020-09-24 21:38:12+00:00,2020-10-06 05:02:48+00:00,2021-11-21 04:46:41+00:00,Segunda Ley de Newton,22,0,0
 Ruben Abisai Campos Canizales,False,2019-09-02 02:13:49+00:00,2019-09-02 02:18:01+00:00,2019-10-15 23:30:28+00:00,Estabilidad en el Sentido de Lyapunov,70,0,0
 Hiram Rayo Torres Rodriguez,False,2019-09-15 13:47:19+00:00,2019-09-15 13:47:33+00:00,2019-11-27 09:24:24+00:00,Estabilidad en el Sentido de Lyapunov,70,0,0
-Esiom Getulio Pereira,False,2022-04-21 18:07:54+00:00,2022-04-21 23:45:33+00:00,2022-04-23 21:12:48+00:00,Ejemplo I: Control Indirecto de un Motor de Corriente Directa,55,0,0
-CARLOS AGUILAR,False,2022-06-16 12:42:55+00:00,2022-06-16 18:02:30+00:00,2022-06-16 18:05:09+00:00,(POR FAVOR) LEE ESTO ANTES DE COMENZAR :D,2,0,0
+Esiom Getulio Pereira,False,2022-04-21 18:07:54+00:00,2022-04-21 23:45:33+00:00,2022-06-19 17:34:49+00:00,Ejemplo I: Control Indirecto de un Motor de Corriente Directa,55,0,0
+CARLOS AGUILAR,False,2022-06-16 12:42:55+00:00,2022-06-16 18:02:30+00:00,2022-06-27 20:53:26+00:00,Segunda Ley de Newton,20,0,0
 Norberto Urbina Brito,False,2019-08-06 16:36:08+00:00,2019-08-07 17:05:07+00:00,2022-03-08 16:17:31+00:00,Un mensaje...,89,0,0
 Miguel Chavez,False,2021-09-14 01:51:52+00:00,2021-10-16 07:40:53+00:00,2022-04-01 15:19:18+00:00,Solución de ecuaciones diferenciales por Variables Separables,11,0,0
 Irving Romero,False,2021-07-13 14:03:46+00:00,2021-07-13 15:13:10+00:00,2021-07-19 14:37:08+00:00,Ejemplo I - Sistema Masa - Resorte,20,0,0
@@ -153,7 +155,8 @@ Jose Sebastian Sasias,False,2021-06-30 20:42:31+00:00,2021-07-07 13:19:40+00:00,
 John David,False,2020-06-26 03:13:23+00:00,2020-08-30 04:04:18+00:00,2020-08-30 04:04:23+00:00,Introducción,3,0,0
 José Cruz Muñoz Esparza,False,2020-04-21 08:48:34+00:00,2020-04-21 23:47:57+00:00,2020-05-06 03:10:31+00:00,Ejemplo II - Control Proporcional,53,0,0
 Josemaria Delgado Gonzalez,False,2021-03-11 18:41:08+00:00,,2021-03-11 18:41:09+00:00,,0,0,0
-Aldo Javier Rivas Vazquez,False,2019-11-30 05:23:58+00:00,2019-11-30 17:32:32+00:00,2021-12-26 04:39:07+00:00,Solución de ecuaciones diferenciales por Variables Separables,10,0,0
+Aldo Javier Rivas Vazquez,False,2019-11-30 05:23:58+00:00,2019-11-30 17:32:32+00:00,2022-06-17 14:57:48+00:00,Solución de ecuaciones diferenciales por Variables Separables,10,0,0
+Giovani_HL,False,2022-07-05 02:16:42+00:00,,,,0,0,0
 Francisco Hurtado,False,2020-08-20 21:33:46+00:00,,2020-08-20 21:33:47+00:00,,0,0,0
 Moises Meza,False,2021-05-24 22:22:49+00:00,2021-05-25 07:32:29+00:00,2021-05-25 07:33:27+00:00,Ejemplo III: Control Indirecto Adaptable de un Motor de Corriente Directa,5,0,0
 Octavio Garcia,False,2019-08-23 01:39:26+00:00,2019-08-25 20:06:14+00:00,2020-09-16 02:32:27+00:00,Segunda Ley de Newton,37,0,0
@@ -162,9 +165,9 @@ Victor Manuel Mora Romo,False,2021-02-25 00:38:01+00:00,2021-02-25 23:04:17+00:0
 Jesús mtz,False,2022-01-06 16:04:06+00:00,2022-01-06 16:13:58+00:00,2022-01-06 16:14:05+00:00,(POR FAVOR) LEE ESTO ANTES DE COMENZAR :D,3,0,0
 Erick Jacob Romero Pichardo,False,2020-04-17 02:50:34+00:00,2020-04-20 14:46:57+00:00,2021-06-22 23:28:23+00:00,¿QUIÉNES SOMOS?,64,0,0
 Leonardo Martínez,False,2020-06-03 04:46:09+00:00,,,,0,0,0
-Sergio Roberto Aguilar Gómez,False,2021-09-30 04:33:32+00:00,2022-06-05 03:31:04+00:00,2022-06-05 03:31:09+00:00,Sistemas Dinámicos,2,0,0
+Sergio Roberto Aguilar Gómez,False,2021-09-30 04:33:32+00:00,2022-06-05 03:31:04+00:00,2022-06-29 04:36:24+00:00,Sistemas Dinámicos,2,0,0
 Miguel Ángel Pedraza Álvarez,False,2020-07-27 06:23:37+00:00,2020-08-14 23:29:49+00:00,2020-08-14 23:29:54+00:00,Introducción,4,0,0
-Rodrigo Rivera Becerril,False,2022-01-29 03:47:43+00:00,2022-02-01 05:13:12+00:00,2022-05-27 16:11:32+00:00,Ejemplo V - Circuito Eléctrico de dos Mallas,81,0,0
+Rodrigo Rivera Becerril,False,2022-01-29 03:47:43+00:00,2022-02-01 05:13:12+00:00,2022-07-05 19:34:43+00:00,Ejemplo V - Circuito Eléctrico de dos Mallas,81,0,0
 Alberto José Echeverría Reina,False,2022-02-21 22:26:48+00:00,2022-02-21 22:50:24+00:00,2022-06-16 17:26:29+00:00,Ecuaciones de Euler - Lagrange,36,0,0
 Luis Fernando Hernández Godínez,False,2021-11-28 20:59:11+00:00,2021-11-29 18:02:56+00:00,2022-06-14 18:29:52+00:00,Control Difuso II: MATLAB y Simulink,100,0,0
 Isidro Berlanga,False,2019-10-01 00:41:29+00:00,2019-10-01 00:43:03+00:00,2020-08-10 03:20:27+00:00,Sistemas Dinámicos,6,0,0
@@ -267,19 +270,21 @@ Cristian Basoalto,False,2020-09-11 14:38:57+00:00,2020-09-25 20:51:36+00:00,2021
 Fermin,False,2022-01-12 12:52:08+00:00,2022-01-12 15:21:08+00:00,2022-01-12 15:21:13+00:00,(POR FAVOR) LEE ESTO ANTES DE COMENZAR :D,3,0,0
 Rodrigo Jarquin,False,2020-05-09 02:16:04+00:00,2020-05-09 18:00:52+00:00,2020-05-18 05:00:48+00:00,Diagrama de Bloques,17,0,0
 DUVAN DARIO CASTRO BAUTISTA,False,2021-11-12 23:21:29+00:00,2021-11-16 19:23:17+00:00,2022-03-14 20:08:42+00:00,Ecuaciones de Euler - Lagrange,30,0,0
-Jorge Maranto Rivera,False,2022-05-26 16:28:01+00:00,,,,0,0,0
+Jorge Maranto Rivera,False,2022-05-26 16:28:01+00:00,2022-06-17 16:12:15+00:00,2022-06-17 16:12:20+00:00,(POR FAVOR) LEE ESTO ANTES DE COMENZAR :D,2,0,0
 Eduardo Alejandro Hernández Méndez,False,2022-01-17 14:08:19+00:00,2022-01-17 14:08:58+00:00,2022-02-23 16:02:03+00:00,Ejemplo I - Motor de Corriente Directa en Espacio de Estados,40,0,0
 Rafael sanchez lara,False,2021-02-08 06:09:17+00:00,2021-03-31 01:54:04+00:00,2021-07-05 18:26:52+00:00,Control Proporcional,50,0,0
 Johan Gabriel Silva Díaz,False,2020-06-20 01:45:40+00:00,2020-06-23 19:17:58+00:00,2021-01-19 23:16:19+00:00,Ejemplo II - Control Proporcional,56,0,0
 Luis Muñoz Paredes,False,2020-07-02 22:37:09+00:00,2020-07-15 00:13:57+00:00,2021-07-04 20:38:45+00:00,Observador de Estados,50,0,0
 Luis Eduardo Hernández González,False,2020-12-15 02:45:05+00:00,2021-07-05 06:30:04+00:00,2022-06-10 02:26:56+00:00,Control Activo,66,0,0
-José Alberto Medina Morales,False,2021-04-13 04:27:55+00:00,2021-04-13 04:45:16+00:00,2022-06-06 23:11:04+00:00,Espacio de Estados,31,0,0
+José Alberto Medina Morales,False,2021-04-13 04:27:55+00:00,2021-04-13 04:45:16+00:00,2022-07-05 23:56:35+00:00,Control Proporcional - Integral (PI),35,0,0
 RUBEN UGALDE,False,2020-05-08 23:26:13+00:00,2020-06-10 00:54:57+00:00,2020-11-24 02:35:14+00:00,Introducción,11,0,0
 Jonathan Cid,False,2020-11-21 03:57:03+00:00,2020-11-21 03:58:15+00:00,2021-07-26 20:34:47+00:00,Ejemplo I - Motor de Corriente Directa en Espacio de Estados,6,0,0
 Jose Noe,False,2021-01-03 02:18:49+00:00,2021-01-04 02:34:15+00:00,2022-03-24 00:14:26+00:00,¿QUIÉNES SOMOS?,81,0,0
 Carlos Fernando Salinas Garcia,False,2020-06-18 19:54:11+00:00,,2020-12-29 21:24:45+00:00,,0,0,0
+Alanio Ferreira de Lima,False,2022-07-04 01:38:20+00:00,,,,0,0,0
 Marco Becerra,False,2020-05-14 02:19:52+00:00,2020-05-23 03:05:11+00:00,2020-07-05 23:27:14+00:00,Diagrama de Bloques,23,0,0
 Heimdal Lahoz Chuliá,False,2020-03-22 12:37:37+00:00,2020-03-28 10:34:04+00:00,2020-04-24 16:11:51+00:00,Espacio de Estados,48,1,0
+Oscar Sámano Brito,False,2022-06-17 16:25:20+00:00,2022-06-17 16:27:06+00:00,2022-06-21 18:45:42+00:00,Un mensaje...,100,0,0
 Jesús del Río,False,2020-04-13 07:17:08+00:00,2020-04-13 07:28:34+00:00,2022-01-21 15:59:41+00:00,Observador de Estados,70,0,0
 Luis Alexi Seminario Justano,False,2021-03-03 04:02:00+00:00,2021-03-03 04:18:57+00:00,2022-01-20 18:08:17+00:00,Control Proporcional - Integral - Derivativo (PID),22,1,1
 Jose Alejandro Perez Bahamondes,False,2021-03-12 02:39:24+00:00,2021-03-22 18:58:13+00:00,2022-05-08 15:51:13+00:00,Un mensaje...,30,0,0
@@ -291,6 +296,7 @@ Edgardo,False,2020-04-14 02:18:57+00:00,2020-04-29 17:46:14+00:00,2021-05-06 05:
 Miguel Abraham Gallardo Carreón,False,2020-04-13 14:44:23+00:00,2020-09-04 20:32:08+00:00,2021-01-28 16:44:19+00:00,Un mensaje...,100,2,1
 Víctor Manuel Leyva Osorio,False,2020-04-30 03:12:38+00:00,2020-07-28 22:45:07+00:00,2021-09-06 02:59:29+00:00,Ejemplo I - Motor de Corriente Directa en Espacio de Estados,53,0,0
 Milton R. Valle Lora,False,2020-04-04 02:49:32+00:00,,2020-04-15 10:41:47+00:00,,0,0,0
+FRANCISCO carlos MEJIA alanis,False,2022-07-05 02:31:22+00:00,2022-07-05 02:36:38+00:00,2022-07-07 00:52:31+00:00,Funciones de Pertenencia: Intuición,6,0,0
 Mario Alberto Ruiz Huitrón,False,2020-04-07 19:04:35+00:00,,2020-04-14 03:05:52+00:00,,0,0,0
 Sergio Oviedo,False,2021-05-09 00:36:15+00:00,2021-05-09 01:02:14+00:00,2022-01-31 22:04:13+00:00,Un mensaje...,100,0,0
 Raul Paredes,False,2020-07-30 15:51:59+00:00,2020-07-30 15:55:57+00:00,2021-02-16 04:37:18+00:00,Ejemplo III: Control Indirecto Adaptable de un Motor de Corriente Directa,100,0,0
@@ -314,12 +320,12 @@ Julio Cesar Cerecedo Marquez,False,2020-08-20 22:18:12+00:00,2020-08-20 23:04:49
 César Martínez,False,2022-01-01 20:56:32+00:00,,2022-05-22 01:57:28+00:00,,0,0,0
 Mitchell Angel Gómez Ortega,False,2020-08-24 03:30:41+00:00,2020-08-27 05:06:35+00:00,2020-11-26 03:24:21+00:00,Control Proporcional,50,0,0
 Luis Cruzado Peña,False,2021-05-27 23:16:24+00:00,2021-05-27 23:30:04+00:00,2021-07-19 13:53:05+00:00,[GUÍA] - ¿Qué es un Controlador PID? Un acercamiento a su principio matemático,45,0,0
-Orlando Martínez Reyes,False,2022-05-19 15:06:38+00:00,2022-06-01 17:09:29+00:00,2022-06-14 22:17:17+00:00,Ejemplo I - Sistema Masa - Resorte,20,0,0
+Orlando Martínez Reyes,False,2022-05-19 15:06:38+00:00,2022-06-01 17:09:29+00:00,2022-06-30 18:35:04+00:00,Ejemplo I - Motor de Corriente Directa en Espacio de Estados,41,0,0
 Dante Zuñiga Miguel,False,2020-05-03 20:07:41+00:00,2020-05-14 03:49:02+00:00,2020-05-14 03:53:40+00:00,Ecuaciones Diferenciales,9,0,0
 Juan Mora Verde,False,2021-07-09 00:52:40+00:00,2022-01-21 23:36:21+00:00,2022-01-21 23:36:26+00:00,Introducción,2,0,0
 Abner Ojeda,False,2020-05-04 19:10:41+00:00,2020-05-06 00:52:38+00:00,2021-11-19 03:01:46+00:00,Función de Transferencia y Estabilidad,17,0,0
 Joel Acosta,False,2020-12-11 04:34:25+00:00,2020-12-11 04:36:18+00:00,2022-02-25 03:43:46+00:00,¿QUIÉNES SOMOS?,85,0,0
-Eduardo Diez Montenegro,False,2021-12-01 21:11:06+00:00,,,,0,0,0
+Eduardo Diez Montenegro,False,2021-12-01 21:11:06+00:00,2022-06-20 14:04:50+00:00,2022-06-20 14:04:55+00:00,(POR FAVOR) LEE ESTO ANTES DE COMENZAR :D,2,0,0
 Luis Avecilla,False,2021-05-23 04:48:21+00:00,2021-09-26 13:16:16+00:00,2022-01-16 12:31:15+00:00,(POR FAVOR) LEE ESTO ANTES DE COMENZAR :D,5,0,0
 Edyoha Abiram Vaquera Hernandez,False,2020-05-10 17:19:38+00:00,2020-05-10 17:21:35+00:00,2021-10-05 04:24:58+00:00,Ejemplo I - Control Activo de un Motor de Corriente Directa,45,0,0
 Miguel Ángel Mora Pérez,False,2020-05-11 17:41:03+00:00,2020-05-13 17:10:48+00:00,2022-02-15 15:10:59+00:00,Ecuaciones Diferenciales,27,0,0
@@ -334,7 +340,7 @@ Jesús Medina Cervantes,False,2020-06-24 20:02:38+00:00,,2022-05-07 03:18:33+00:
 Rodrigo Y. Sánchez Nieto,False,2021-01-15 19:05:53+00:00,2021-01-16 00:30:51+00:00,2021-09-08 22:29:17+00:00,Ejemplo I - Sistema Masa - Resorte,20,0,0
 Rodolfo Ponce Reynoso,False,2021-04-07 18:37:48+00:00,2021-04-07 20:48:56+00:00,2022-03-31 14:55:53+00:00,Control Difuso II: MATLAB y Simulink,95,0,0
 Fernando Elizalde Ramirez,False,2022-04-25 21:52:52+00:00,2022-04-25 21:55:07+00:00,2022-04-25 21:55:12+00:00,Introducción,2,0,0
-Marisol Armas Lopez,False,2022-01-12 03:35:43+00:00,2022-01-12 03:36:24+00:00,2022-03-04 03:38:01+00:00,Ecuaciones Diferenciales,5,0,0
+Marisol Armas Lopez,False,2022-01-12 03:35:43+00:00,2022-01-12 03:36:24+00:00,2022-07-03 02:28:06+00:00,Solución de ecuaciones diferenciales por Variables Separables,10,0,0
 Alan Alfonso Moreno Rodríguez,False,2020-06-01 20:44:10+00:00,2021-04-03 16:14:52+00:00,2022-06-05 10:11:03+00:00,Ejemplo I - Motor de Corriente Directa en Espacio de Estados,5,0,0
 John Pabon,False,2020-08-24 04:47:32+00:00,2020-08-24 19:00:21+00:00,2021-01-19 08:00:00+00:00,Solución de ecuaciones diferenciales por Variables Separables,12,0,0
 Andrés Hoc,False,2022-06-07 15:32:06+00:00,,,,0,0,0
@@ -349,13 +355,13 @@ Jose de Jesús Jiménez Cervantes,False,2021-01-08 18:50:37+00:00,2021-01-09 06:
 Raul Lopez Mendez,False,2020-06-18 19:40:42+00:00,,2020-06-18 19:57:42+00:00,,0,0,0
 Raul Parada Severo,False,2022-01-20 03:52:57+00:00,,2022-03-30 16:46:40+00:00,,0,0,0
 Homero Morones Collado,False,2020-06-19 03:59:48+00:00,2020-06-20 19:14:25+00:00,2020-06-21 21:13:26+00:00,Leyes de Kirchhoff,37,0,0
-Robert Isaias Quispe Romero,False,2022-02-23 02:43:58+00:00,2022-02-26 01:45:43+00:00,2022-05-20 03:50:52+00:00,Ecuaciones Diferenciales,6,0,0
+Robert Isaias Quispe Romero,False,2022-02-23 02:43:58+00:00,2022-02-26 01:45:43+00:00,2022-06-29 04:27:12+00:00,(POR FAVOR) LEE ESTO ANTES DE COMENZAR :D,6,0,0
 Saul ub,False,2022-04-19 15:33:01+00:00,2022-04-20 03:02:44+00:00,2022-04-26 03:00:17+00:00,La Transformada de Laplace,10,0,0
 Julián Rodríguez,False,2020-06-30 22:11:46+00:00,2020-07-01 21:48:07+00:00,2022-02-04 19:53:45+00:00,Ecuaciones Diferenciales,10,0,0
 Carlos Enrique Moran Garabito,False,2021-01-04 19:23:36+00:00,2021-06-21 13:52:35+00:00,2021-06-21 13:52:40+00:00,¿QUIÉNES SOMOS?,3,0,0
 Juan Daniel Contreras Romero,False,2020-12-25 04:13:20+00:00,2021-12-24 03:33:45+00:00,2021-12-24 03:32:52+00:00,Función de Transferencia y Estabilidad,3,0,0
 Diego Martinez Montes,False,2020-11-25 15:06:21+00:00,,,,0,0,0
-Miguel Angel Rodriguez,False,2022-06-16 00:21:16+00:00,,,,0,0,0
+Miguel Angel Rodriguez,False,2022-06-16 00:21:16+00:00,2022-06-17 22:42:01+00:00,2022-06-28 22:31:19+00:00,La Transformada de Laplace,10,0,0
 Ricardo,False,2021-03-20 03:16:16+00:00,2021-04-21 05:28:12+00:00,2022-04-23 20:30:41+00:00,¿QUIÉNES SOMOS?,20,0,0
 Ricardo Escarcega,False,2020-07-09 15:21:17+00:00,2020-08-15 04:44:22+00:00,2022-02-09 00:36:36+00:00,Control Activo,27,0,0
 Enrique Mar,False,2020-07-11 01:35:01+00:00,2020-07-13 22:18:11+00:00,2022-02-25 14:50:01+00:00,Estabilidad en el Sentido de Lyapunov,42,0,0
@@ -364,7 +370,7 @@ Diego Quijas Santos,False,2021-02-18 01:42:20+00:00,2021-11-30 17:01:56+00:00,20
 Ian Sait Gutierrez Hernandez,False,2022-05-25 18:04:07+00:00,,,,0,0,0
 Oscar Lagos Garrido,False,2020-07-28 20:28:46+00:00,2020-07-28 20:58:05+00:00,2020-07-28 21:01:32+00:00,Ejemplo VI - Motor de Corriente Directa,14,0,0
 Jared Evani Ramírez Maldonado,False,2021-07-08 11:32:48+00:00,2021-12-02 21:10:31+00:00,2021-12-02 21:10:36+00:00,(POR FAVOR) LEE ESTO ANTES DE COMENZAR :D,3,0,0
-André G,False,2021-10-15 03:03:39+00:00,2021-10-15 03:03:59+00:00,2022-05-22 20:52:39+00:00,¿QUIÉNES SOMOS?,5,0,0
+André G,False,2021-10-15 03:03:39+00:00,2021-10-15 03:03:59+00:00,2022-06-24 18:02:55+00:00,¿QUIÉNES SOMOS?,5,0,0
 Christian Del moral,False,2020-07-28 21:34:24+00:00,2020-08-02 00:33:51+00:00,2021-04-23 08:47:02+00:00,Solución de ecuaciones diferenciales por Variables Separables,10,0,0
 Alejandro Fernández Hernández,False,2020-07-31 04:06:26+00:00,2020-07-31 22:13:07+00:00,2020-10-12 18:31:33+00:00,Ecuaciones Diferenciales,9,0,0
 Manuel Alejandro De la Rosa Saldaña,False,2021-02-23 00:21:02+00:00,2021-02-23 00:22:44+00:00,2021-08-30 15:09:41+00:00,Ejemplo VI - Motor de Corriente Directa,35,0,0
@@ -380,9 +386,9 @@ Hannia Lopez,False,2020-10-31 22:32:49+00:00,2020-11-01 07:05:11+00:00,2021-12-2
 Alvaro Rodrigo Manrique Aliaga,False,2020-08-22 03:05:08+00:00,,2020-09-23 21:41:43+00:00,,0,0,0
 Daniel Fernando Rodríguez Minor,False,2020-08-28 02:24:42+00:00,2020-08-28 02:30:34+00:00,2021-09-28 15:08:58+00:00,(POR FAVOR) LEE ESTO ANTES DE COMENZAR :D,29,1,0
 Selvyn José Rojas Mejía,False,2021-01-07 05:04:11+00:00,2021-08-17 02:26:13+00:00,2022-06-15 16:34:32+00:00,Ecuaciones Diferenciales,5,0,0
-Edrei Yael Santos García,False,2020-11-01 05:56:15+00:00,2021-03-11 02:23:09+00:00,2022-06-15 19:20:18+00:00,Control Proporcional - Integral (PI),36,0,0
+Edrei Yael Santos García,False,2020-11-01 05:56:15+00:00,2021-03-11 02:23:09+00:00,2022-07-02 08:19:52+00:00,Control Proporcional - Integral (PI),36,0,0
 Wilmar Pineda,False,2020-08-27 15:32:07+00:00,,2021-12-05 19:10:18+00:00,,0,0,0
-Obed Colmenero,False,2020-08-28 00:33:41+00:00,2020-08-28 00:35:27+00:00,2022-06-03 16:41:47+00:00,Ecuaciones Diferenciales,6,0,0
+Obed Colmenero,False,2020-08-28 00:33:41+00:00,2020-08-28 00:35:27+00:00,2022-06-17 21:25:51+00:00,Ecuaciones Diferenciales,6,0,0
 Iván Rocha Gómez,False,2021-02-27 00:12:48+00:00,,,,0,0,0
 Gerardo Escamilla Hernández,False,2022-01-29 03:47:27+00:00,2022-01-29 03:48:23+00:00,2022-04-25 18:18:25+00:00,Introducción,91,0,0
 Adolfo Peralta Chávez,False,2022-05-19 04:07:48+00:00,2022-05-19 09:41:21+00:00,2022-05-19 09:57:33+00:00,Solución de ecuaciones diferenciales por Variables Separables,10,0,0
@@ -430,7 +436,7 @@ Luis Angel Fuentes Alvarez,False,2020-12-23 16:10:51+00:00,2021-02-10 19:49:09+0
 Ronald Solis Mesa,False,2021-06-23 04:37:30+00:00,2021-06-23 04:47:21+00:00,2021-08-04 06:50:09+00:00,Sistemas Dinámicos,5,0,0
 Omar Paredes,False,2021-08-09 21:01:14+00:00,2021-08-10 06:30:50+00:00,2022-01-14 01:13:47+00:00,Diagrama de Bloques,20,0,0
 Luis Alberto Aquino Caballero,False,2021-12-24 16:59:55+00:00,2022-03-01 13:44:36+00:00,2022-03-01 13:44:41+00:00,Introducción,2,0,0
-Ismael Lugo Sosa,False,2022-05-17 13:12:51+00:00,,,,0,0,0
+Ismael Lugo Sosa,False,2022-05-17 13:12:51+00:00,2022-06-22 19:54:50+00:00,2022-06-22 19:54:50+00:00,(POR FAVOR) LEE ESTO ANTES DE COMENZAR :D,2,0,0
 Emmanuel Marcos Gómez,False,2022-02-25 20:51:01+00:00,2022-03-02 02:50:10+00:00,2022-04-17 05:30:10+00:00,Ecuaciones Diferenciales,8,0,0
 Roberto Carlos Palma Paredes,False,2021-01-04 07:24:29+00:00,2021-01-14 09:52:08+00:00,2021-04-23 16:55:22+00:00,Un mensaje...,100,0,0
 Ulises David Sandoval Contreras,False,2021-01-03 07:49:10+00:00,2022-01-12 04:32:12+00:00,2022-01-12 04:32:17+00:00,(POR FAVOR) LEE ESTO ANTES DE COMENZAR :D,3,0,0
@@ -438,12 +444,14 @@ José David Hernández Navarro,False,2021-01-04 17:01:56+00:00,,2021-01-20 12:01
 Tanya Garcia Espinosa,False,2021-01-04 19:48:37+00:00,,2021-02-23 01:20:59+00:00,,0,0,0
 Héctor Burciaga Sosa,False,2022-02-15 20:43:31+00:00,2022-02-21 17:20:45+00:00,2022-02-21 17:20:51+00:00,Sistemas Dinámicos,2,0,0
 Juan Carrasco,False,2021-02-01 14:22:31+00:00,2021-02-01 15:21:55+00:00,2021-12-14 02:02:29+00:00,Ecuaciones de Euler - Lagrange,40,0,0
+Kenneth Saul Cornejo Vertiz,False,2022-07-04 02:20:27+00:00,2022-07-04 02:20:55+00:00,2022-07-04 02:21:42+00:00,[GRATIS] OBTÉN TU CERTIFICADO PROFESIONAL,2,0,0
 Esteban Vidal Carrasco,False,2021-01-19 19:52:01+00:00,2021-01-19 20:44:07+00:00,2021-01-26 01:40:18+00:00,Función de Transferencia y Estabilidad,16,0,0
-Jorge Andrés Veloz Mena,False,2021-02-15 04:39:58+00:00,2021-04-07 16:21:20+00:00,2022-05-26 14:33:20+00:00,[GRATIS] OBTÉN TU CERTIFICADO PROFESIONAL,91,0,0
-Daniel,False,2021-07-21 17:31:24+00:00,2021-08-17 21:58:08+00:00,2021-11-21 00:30:26+00:00,Ejemplo I - Sistema Masa - Resorte,27,0,0
-Arturo Garía Morelos,False,2021-07-18 22:31:06+00:00,2021-07-18 23:27:48+00:00,2021-10-06 06:35:15+00:00,Ejemplo II - Control Proporcional,50,0,0
-Christopher Emanuel Reyes Valencia,False,2022-01-04 22:42:09+00:00,2022-01-05 14:58:35+00:00,2022-05-20 00:37:47+00:00,Ejemplo I - Sistema Masa - Resorte,27,0,0
+Jorge Andrés Veloz Mena,False,2021-02-15 04:39:58+00:00,2021-04-07 16:21:20+00:00,2022-06-17 12:23:10+00:00,[GRATIS] OBTÉN TU CERTIFICADO PROFESIONAL,91,0,0
+Daniel,False,2021-07-21 17:31:24+00:00,2021-08-17 21:58:08+00:00,2022-06-21 03:24:25+00:00,Ejemplo I - Sistema Masa - Resorte,27,0,0
+Arturo Garía Morelos,False,2021-07-18 22:31:06+00:00,2021-07-18 23:27:48+00:00,2022-07-02 01:47:47+00:00,Un mensaje...,75,0,0
+Christopher Emanuel Reyes Valencia,False,2022-01-04 22:42:09+00:00,2022-01-05 14:58:35+00:00,2022-06-25 16:41:25+00:00,Ejemplo I - Sistema Masa - Resorte,27,0,0
 Ronald Rodríguez,False,2022-04-26 21:16:54+00:00,2022-04-26 21:34:50+00:00,2022-04-26 21:49:15+00:00,Ecuaciones Diferenciales,6,0,0
+Alex Antonio Turriza Suárez,False,2022-06-26 21:17:14+00:00,2022-06-27 01:54:09+00:00,2022-07-07 00:46:54+00:00,Ejemplo II - Péndulo Simple,25,0,0
 Julio Oscar Omar Marquez Ramirez,False,2021-01-28 00:45:17+00:00,2021-01-28 00:50:06+00:00,2022-06-11 14:10:40+00:00,La Transformada de Laplace,31,0,0
 Oscar Perez Hernandez,False,2021-09-30 18:55:48+00:00,2021-12-15 20:41:52+00:00,2021-12-15 20:41:57+00:00,(POR FAVOR) LEE ESTO ANTES DE COMENZAR :D,3,0,0
 José Cristóbal Medina Huerta,False,2022-04-05 15:35:49+00:00,,,,0,0,0
@@ -453,7 +461,7 @@ Carlos Eduardo Díaz Gutiérrez,False,2021-02-23 23:34:10+00:00,2021-02-23 23:35
 Crystal Selene Martinez Guzman,False,2022-01-29 14:42:24+00:00,2022-01-29 15:09:06+00:00,2022-04-28 18:07:17+00:00,Solución de ecuaciones diferenciales por Variables Separables,6,0,0
 Javier Colom Rodríguez,False,2021-02-08 11:48:35+00:00,2021-02-08 11:56:32+00:00,2021-02-08 11:56:16+00:00,Ejemplo II - Control de un Sistema Completamente Desconocido,3,0,0
 Aníbal Olguín León,False,2022-03-15 05:53:20+00:00,2022-04-13 14:26:17+00:00,2022-04-15 15:14:52+00:00,La Transformada de Laplace,10,0,0
-Oliver Damian Alonso,False,2022-05-01 02:08:38+00:00,2022-05-01 21:24:43+00:00,2022-05-02 04:57:59+00:00,Segunda Ley de Newton,16,0,0
+Oliver Damian Alonso,False,2022-05-01 02:08:38+00:00,2022-05-01 21:24:43+00:00,2022-06-21 02:50:08+00:00,Segunda Ley de Newton,16,0,0
 Alan Martínez Díaz,False,2021-02-12 13:09:36+00:00,2021-02-12 13:17:20+00:00,2021-02-17 05:48:39+00:00,Introducción,3,0,0
 Iver Pardo,False,2022-02-21 21:23:52+00:00,2022-04-26 10:11:28+00:00,2022-04-26 10:17:19+00:00,Ecuaciones Diferenciales,6,0,0
 Edgar Cortez Dena,False,2021-11-28 02:33:30+00:00,2021-12-14 20:08:42+00:00,2022-01-03 23:10:18+00:00,Solución de ecuaciones diferenciales por Variables Separables,11,0,0
@@ -463,6 +471,7 @@ Braulio Quine,False,2022-06-15 17:47:26+00:00,,,,0,0,0
 Alan Bergel,False,2021-02-20 10:13:34+00:00,2021-02-20 10:23:42+00:00,2021-02-20 10:45:24+00:00,Ecuaciones de Euler - Lagrange,11,0,0
 Walter silva,False,2021-08-30 19:41:20+00:00,2021-08-30 19:41:52+00:00,2021-09-11 16:37:09+00:00,[GUÍA] - Estabilidad de Sistemas Dinámicos,66,0,0
 José de Jesús Sánchez Ramírez,False,2021-02-23 03:06:39+00:00,2021-02-23 03:09:13+00:00,2022-06-09 02:42:33+00:00,Observador de Estados,50,0,0
+Miguel Mendoza,False,2022-07-06 23:25:01+00:00,,,,0,0,0
 Julio Camilo Ceja Camarena,False,2021-03-11 05:44:37+00:00,2021-03-11 05:46:27+00:00,2021-08-20 17:18:09+00:00,Ejemplo VI - Motor de Corriente Directa,45,0,0
 Obed Toledo Cruz,False,2022-05-17 17:42:19+00:00,,,,0,0,0
 Adriana Janet Mozqueda Torres,False,2021-11-26 05:47:47+00:00,,2022-02-04 23:56:35+00:00,,0,0,0
@@ -477,7 +486,8 @@ Mario Kevin García Carrazco,False,2021-07-13 13:15:36+00:00,2021-08-10 03:22:35
 Alexis Neira,False,2022-03-14 21:40:40+00:00,,,,0,0,0
 David Alejandro Tejeda Ochoa,False,2022-02-04 17:03:03+00:00,2022-03-10 18:59:07+00:00,2022-03-10 19:24:50+00:00,La Transformada de Laplace,10,0,0
 Franco Ismael,False,2021-04-29 01:38:21+00:00,2021-04-29 02:14:55+00:00,2022-05-01 00:46:50+00:00,Respuesta de un Sistema,10,0,0
-Juan Aldair Mejia Cano,False,2022-04-21 16:08:00+00:00,2022-04-21 16:09:01+00:00,2022-05-19 20:20:09+00:00,Control Activo,61,0,0
+José Abdón Ramírez Ruiz,False,2022-06-17 04:34:28+00:00,,2022-06-20 04:40:08+00:00,,0,0,0
+Juan Aldair Mejia Cano,False,2022-04-21 16:08:00+00:00,2022-04-21 16:09:01+00:00,2022-05-19 20:20:09+00:00,Ejemplo III - Control PID Autosintonizable,61,0,0
 Oswaldo Castillo Rojas,False,2021-10-03 16:40:18+00:00,2021-10-03 17:00:51+00:00,2021-10-22 06:21:49+00:00,Ejemplo IV - Circuito Eléctrico de una Malla,27,0,0
 Luis Antonio Orbegoso Moreno,False,2021-04-13 20:26:42+00:00,2021-04-14 17:21:17+00:00,2021-06-08 02:20:07+00:00,(POR FAVOR) LEE ESTO ANTES DE COMENZAR :D,100,0,0
 Omar Francisco Chavez Silverio,False,2021-08-11 03:15:10+00:00,,,,0,0,0
@@ -493,20 +503,21 @@ Giovanni Flores Caballero,False,2021-10-18 04:04:26+00:00,2021-10-18 04:05:10+00
 Daltile Industrias S. de R.L de C.V.,False,2021-05-12 04:26:31+00:00,,,,0,0,0
 Ivan Gonzalez,False,2021-05-11 22:47:28+00:00,,2021-05-28 20:32:55+00:00,,0,0,0
 Daniel Melchor Equihua,False,2022-05-22 13:36:40+00:00,,,,0,0,0
-David Marquez,False,2021-05-25 22:52:34+00:00,2022-05-20 02:29:33+00:00,2022-05-24 12:18:46+00:00,Función de Transferencia y Estabilidad,20,0,0
+David Marquez,False,2021-05-25 22:52:34+00:00,2022-05-20 02:29:33+00:00,2022-07-01 03:20:50+00:00,Ejemplo II - Péndulo Simple,37,0,0
 Jesús Daniel Arredondo Pulido,False,2021-05-25 18:04:02+00:00,,,,0,0,0
 Bryan A. Delgado Moreno,False,2021-09-08 04:47:24+00:00,,2021-09-09 13:10:07+00:00,,0,0,0
 Alexis Omar Ramírez López,False,2021-11-12 04:16:11+00:00,2021-11-12 19:56:47+00:00,2021-12-15 16:34:32+00:00,¿QUIÉNES SOMOS?,100,0,0
 Gerardo Cervantes López,False,2022-01-03 04:09:49+00:00,2022-05-14 22:24:59+00:00,2022-05-16 01:19:09+00:00,Ejemplo II - Control Proporcional,6,0,0
 Iván Osorio,False,2022-01-01 19:34:28+00:00,2022-02-15 04:28:24+00:00,2022-02-22 19:22:53+00:00,Un mensaje...,10,0,0
 Alejandro De Lucio,False,2021-06-11 18:09:26+00:00,2021-06-11 18:09:49+00:00,2021-10-29 20:21:10+00:00,(POR FAVOR) LEE ESTO ANTES DE COMENZAR :D,5,0,0
-Eduardo Antonio Muñoz Vazquez,False,2021-09-23 00:56:56+00:00,2021-09-23 05:16:35+00:00,2022-06-13 17:07:32+00:00,Función de Transferencia y Estabilidad,16,0,0
+Eduardo Antonio Muñoz Vazquez,False,2021-09-23 00:56:56+00:00,2021-09-23 05:16:35+00:00,2022-06-22 14:36:50+00:00,Función de Transferencia y Estabilidad,16,0,0
 Juan José Cepeda Cerda,False,2021-07-14 04:42:01+00:00,2021-07-14 16:23:10+00:00,2021-10-05 02:54:41+00:00,Diagrama de Bloques,16,0,0
 Dryan López Fernández,False,2021-06-21 17:31:33+00:00,2021-06-21 17:35:25+00:00,2021-11-17 02:21:49+00:00,[GUÍA] - ¿Qué es un Controlador PID? Un acercamiento a su principio matemático,20,0,0
 Oscar Martínez Gachuzo,False,2021-10-13 06:17:30+00:00,2021-10-13 06:27:50+00:00,2021-10-24 04:59:57+00:00,Introducción,5,0,0
-Cruz Fernando López Olvera,False,2021-09-30 20:55:27+00:00,2021-10-01 16:15:13+00:00,2022-06-11 18:53:16+00:00,[GUÍA] - Estabilidad de Sistemas Dinámicos,66,0,0
+Cruz Fernando López Olvera,False,2021-09-30 20:55:27+00:00,2021-10-01 16:15:13+00:00,2022-07-06 12:36:33+00:00,[GUÍA] - Sistemas No Lineales: Más allá de la Superposición y Linealización,66,0,0
 Nahim Diaz,False,2021-07-01 00:30:02+00:00,2021-08-06 02:40:28+00:00,2021-09-25 02:11:21+00:00,¿QUIÉNES SOMOS?,3,0,0
 Alexa Damaris Cabañez Vilchis,False,2021-07-01 18:49:43+00:00,2021-07-08 02:07:46+00:00,2022-02-05 20:43:37+00:00,Un mensaje...,100,0,0
+A.Tadeo García Morales,False,2022-06-23 17:54:54+00:00,,,,0,0,0
 Christopher Rodríguez López,False,2021-10-07 22:13:07+00:00,2021-10-25 22:42:24+00:00,2021-11-26 06:51:12+00:00,Ejemplo III - Péndulo Invertido,27,0,0
 Mauricio Muhlmann,False,2021-07-09 17:58:56+00:00,2021-07-10 04:05:32+00:00,2022-04-19 21:53:41+00:00,Ejemplo II - Control de un Sistema Completamente Desconocido,81,0,0
 David Enrique Vásquez Sánchez,False,2021-07-10 19:22:06+00:00,,,,0,0,0
@@ -520,6 +531,8 @@ José Francisco Villa Tiburcio,False,2022-04-08 23:08:03+00:00,2022-04-09 00:21:
 Ángel Ulises Loredo Vargas,False,2021-07-23 16:37:44+00:00,2021-09-08 18:25:02+00:00,2022-05-19 15:24:08+00:00,¿QUIÉNES SOMOS?,3,0,0
 Nikolai Vinces,False,2022-01-03 17:02:02+00:00,,2022-01-03 17:02:03+00:00,,0,0,0
 Guillermo Zuñiga,False,2022-05-10 17:47:23+00:00,2022-05-10 17:47:40+00:00,2022-05-11 13:22:28+00:00,Sistemas Dinámicos,6,0,0
+Guillermo Jardon,False,2022-06-21 18:18:53+00:00,2022-06-29 20:09:58+00:00,2022-06-29 20:09:58+00:00,(POR FAVOR) LEE ESTO ANTES DE COMENZAR :D,2,0,0
+Alfonso Canteros,False,2022-06-27 17:16:29+00:00,,,,0,0,0
 Nelson Broyer Paco Chipana,False,2021-08-13 04:29:06+00:00,2021-09-06 17:43:00+00:00,2021-11-27 01:17:59+00:00,(POR FAVOR) LEE ESTO ANTES DE COMENZAR :D,5,0,0
 David Zenteno,False,2021-08-13 19:05:15+00:00,2021-08-13 19:05:39+00:00,2021-08-13 19:07:34+00:00,Un mensaje...,100,0,0
 Hader Sierra Cuello,False,2021-10-12 11:29:44+00:00,2021-10-12 13:30:23+00:00,2022-04-07 21:00:12+00:00,Diagrama de Bloques,16,0,0
@@ -528,17 +541,18 @@ Luis Boyzo,False,2021-08-20 00:35:19+00:00,,2021-08-20 00:36:05+00:00,,3,0,0
 Astrid Torres,False,2021-08-20 00:38:56+00:00,,2021-08-20 00:39:55+00:00,,3,0,0
 Gustavo Cortés,False,2021-08-20 00:42:45+00:00,2021-08-20 00:43:09+00:00,2021-08-20 00:43:14+00:00,¿QUIÉNES SOMOS?,3,0,0
 Rodrigo De la O,False,2021-08-20 00:45:02+00:00,2021-08-20 00:45:24+00:00,2021-08-20 00:45:29+00:00,¿QUIÉNES SOMOS?,3,0,0
-Yair Orta,False,2021-08-20 00:46:52+00:00,2021-08-20 00:47:15+00:00,2022-06-15 03:39:02+00:00,Diagrama de Bloques,20,0,0
+Yair Orta,False,2021-08-20 00:46:52+00:00,2021-08-20 00:47:15+00:00,2022-06-18 01:17:49+00:00,Ejemplo I - Sistema Masa - Resorte,25,0,0
 Jonathan Bernal,False,2021-08-26 01:40:50+00:00,2021-08-26 04:41:29+00:00,2021-08-29 23:28:16+00:00,Sistemas Dinámicos,5,0,0
-luis Fernando,False,2022-03-20 22:52:03+00:00,2022-03-20 23:37:03+00:00,2022-04-16 13:29:41+00:00,Ejemplo II - Control Proporcional,40,0,0
+Roberto Alejandro Sauceda Meléndez,False,2022-06-21 13:57:11+00:00,2022-06-29 15:18:35+00:00,2022-07-05 18:41:07+00:00,Ejemplo IV - Circuito Eléctrico de una Malla,33,0,0
+luis Fernando,False,2022-03-20 22:52:03+00:00,2022-03-20 23:37:03+00:00,2022-07-05 18:07:47+00:00,Observador de Estados,45,0,0
 Alejandro Rodríguez,False,2021-10-12 04:08:29+00:00,2021-11-04 17:03:38+00:00,2022-02-20 05:36:24+00:00,Introducción,3,0,0
 Gerardo Arenas Hernandez,False,2022-01-31 22:28:26+00:00,,2022-02-23 15:48:00+00:00,,0,0,0
 Jorge Miguel Jaimes Ponce,False,2022-01-27 18:41:08+00:00,2022-01-27 18:42:46+00:00,2022-04-06 19:04:16+00:00,Ejemplo I - Sistema Masa - Resorte,20,0,0
 Alejandro Estevez Alvarado,False,2021-09-29 03:27:17+00:00,2021-09-29 04:18:28+00:00,2022-04-26 07:40:13+00:00,Ecuaciones Diferenciales,10,0,0
 Lenin Pardo,False,2021-09-02 17:09:31+00:00,2021-09-02 17:10:16+00:00,2022-04-28 15:29:30+00:00,Un mensaje...,100,0,0
-Daniel Alberto Hipolito Ortiz,False,2022-01-29 03:45:17+00:00,2022-01-31 23:48:59+00:00,2022-05-27 16:06:01+00:00,Ejemplo I: Control Indirecto de un Motor de Corriente Directa,81,0,0
-Ernesto Sifuentes de la Hoya,False,2022-06-03 02:12:13+00:00,2022-06-06 21:42:31+00:00,2022-06-06 22:01:39+00:00,Segunda Ley de Newton,6,0,0
-Luis Angel De La Rosa Jiménez,False,2021-12-31 00:35:26+00:00,2021-12-31 00:36:04+00:00,2022-01-21 00:38:29+00:00,[GUÍA] - ¿Qué es un Controlador PID? Un acercamiento a su principio matemático,46,2,1
+Daniel Alberto Hipolito Ortiz,False,2022-01-29 03:45:17+00:00,2022-01-31 23:48:59+00:00,2022-06-27 14:27:31+00:00,Ejemplo I: Control Indirecto de un Motor de Corriente Directa,81,0,0
+Ernesto Sifuentes de la Hoya,False,2022-06-03 02:12:13+00:00,2022-06-06 21:42:31+00:00,2022-06-30 04:42:41+00:00,Ecuaciones Diferenciales,10,0,0
+Luis Angel De La Rosa Jiménez,False,2021-12-31 00:35:26+00:00,2021-12-31 00:36:04+00:00,2022-06-26 23:03:46+00:00,[GUÍA] - ¿Qué es un Controlador PID? Un acercamiento a su principio matemático,46,2,1
 Josue Marcelo Arevalo Villacres,False,2021-09-14 00:09:26+00:00,2021-09-14 00:10:02+00:00,2022-02-17 17:29:19+00:00,Ejemplo I - Motor de Corriente Directa en Espacio de Estados,40,0,0
 Jeff,False,2022-01-27 14:45:42+00:00,2022-01-27 14:47:12+00:00,2022-01-27 14:58:54+00:00,Solución de ecuaciones diferenciales por Variables Separables,6,0,0
 Fernando Ramirez,False,2022-05-26 05:00:16+00:00,,,,0,0,0
@@ -554,14 +568,14 @@ Luis Enrique Cáliz Madrigal,False,2021-10-14 03:04:02+00:00,2021-10-22 00:20:34
 Daniel Alberto Reyes Guerrero,False,2022-01-19 17:07:30+00:00,2022-01-19 17:07:57+00:00,2022-04-28 20:50:22+00:00,Ejemplo I - Sistema Masa - Resorte,16,0,0
 Isaac,False,2021-10-29 22:03:35+00:00,,,,0,0,0
 Juan Tortillas,False,2021-10-27 16:31:00+00:00,2021-10-27 16:31:20+00:00,2021-10-27 16:32:37+00:00,¿QUIÉNES SOMOS?,100,0,0
-Pablo López Guevara,False,2021-11-25 16:29:08+00:00,2021-11-25 16:29:46+00:00,2022-06-07 22:31:45+00:00,[GRATIS] OBTÉN TU CERTIFICADO PROFESIONAL,10,0,0
+Pablo López Guevara,False,2021-11-25 16:29:08+00:00,2021-11-25 16:29:46+00:00,2022-07-04 17:20:07+00:00,Solución de ecuaciones diferenciales por Variables Separables,10,0,0
 Jonathan Santa Cruz,False,2021-11-20 19:31:38+00:00,,2021-12-07 20:30:29+00:00,,3,0,0
 Jaime Jiménez,False,2021-11-08 04:26:18+00:00,2021-11-08 04:26:33+00:00,2021-11-08 04:32:17+00:00,¿QUIÉNES SOMOS?,100,0,0
 Humberto Penca Bolteada,False,2021-11-09 20:52:48+00:00,2022-04-12 00:57:49+00:00,2022-04-12 01:44:54+00:00,La Transformada de Laplace,10,0,0
 Luis Chavez Fernandez,False,2021-12-30 03:30:06+00:00,,,,0,0,0
 Elena Tovar,False,2021-11-25 16:38:53+00:00,2021-11-25 16:39:21+00:00,2021-11-25 16:42:03+00:00,(POR FAVOR) LEE ESTO ANTES DE COMENZAR :D,3,0,0
-Gonzalo Mendoza Garcia,False,2022-01-29 03:46:38+00:00,2022-02-01 05:38:19+00:00,2022-06-08 04:52:52+00:00,Ejemplo II: Control Indirecto Semi - Adaptable de un Motor de Corriente Directa,89,0,0
-Adrián Mazo García,False,2022-05-01 00:46:11+00:00,2022-06-11 20:32:59+00:00,2022-06-11 21:46:35+00:00,Ejemplo I - Sistema Masa - Resorte,20,0,0
+Gonzalo Mendoza Garcia,False,2022-01-29 03:46:38+00:00,2022-02-01 05:38:19+00:00,2022-06-29 01:01:21+00:00,Ejemplo II: Control Indirecto Semi - Adaptable de un Motor de Corriente Directa,89,0,0
+Adrián Mazo García,False,2022-05-01 00:46:11+00:00,2022-06-11 20:32:59+00:00,2022-06-26 16:32:37+00:00,Ejemplo I - Sistema Masa - Resorte,20,0,0
 Ricardo Casimiro,False,2022-03-01 01:48:14+00:00,2022-03-01 01:48:34+00:00,2022-05-19 02:12:11+00:00,Ecuaciones Diferenciales,6,0,0
 Carlos López,False,2022-05-18 18:05:59+00:00,2022-05-18 18:49:39+00:00,2022-05-24 16:22:38+00:00,Control Proporcional,25,0,0
 Karen Adriana De la Cruz Castro,False,2022-05-23 08:49:10+00:00,2022-05-28 20:47:47+00:00,2022-05-28 20:47:52+00:00,(POR FAVOR) LEE ESTO ANTES DE COMENZAR :D,2,0,0
@@ -575,6 +589,7 @@ Leonardo leal mesa,False,2022-02-19 02:57:31+00:00,2022-02-19 02:58:42+00:00,202
 Jhon Antony Quispe Rodriguez,False,2022-01-17 20:50:40+00:00,2022-01-17 20:52:15+00:00,2022-03-18 03:25:00+00:00,[GUÍA] - Sistemas No Lineales: Más allá de la Superposición y Linealización,65,0,0
 Ricardo Cortez,False,2022-02-16 05:08:00+00:00,2022-02-16 05:08:08+00:00,2022-06-15 04:28:23+00:00,[GUÍA] - ¿Qué es un Controlador PID? Un acercamiento a su principio matemático,20,0,0
 Armando Del Angel,False,2022-01-23 21:39:41+00:00,2022-01-23 21:49:24+00:00,2022-02-18 14:35:56+00:00,¿QUIÉNES SOMOS?,100,0,0
+Oscar Nieto Martínez,False,2022-06-21 20:44:41+00:00,2022-06-27 21:04:41+00:00,2022-07-07 00:08:29+00:00,Leyes de Kirchhoff,25,1,2
 Walther Urbina Yale,False,2022-01-28 02:55:40+00:00,,2022-06-06 08:34:05+00:00,,0,0,0
 Jean Rodriguez,False,2022-01-29 04:18:24+00:00,,,,0,0,0
 Joel Santos Valencia,False,2022-01-29 04:18:50+00:00,2022-01-29 04:22:17+00:00,2022-01-29 05:04:19+00:00,Sistemas Dinámicos,2,0,0
@@ -588,7 +603,7 @@ Fabiola Bermeo Nuñez,False,2022-01-29 05:42:43+00:00,,,,0,0,0
 Juan Carlos Cortes,False,2022-01-29 05:56:18+00:00,,2022-01-29 05:57:39+00:00,,0,0,0
 Isel Fernanda Rodríguez González,False,2022-01-29 06:00:36+00:00,,,,0,0,0
 Joel Ciplina,False,2022-01-29 06:21:09+00:00,,2022-02-18 19:45:38+00:00,,0,0,0
-Alexis Yael Corona Nava,False,2022-01-29 06:26:43+00:00,2022-01-29 16:37:45+00:00,2022-04-07 03:16:48+00:00,Ecuaciones Diferenciales,6,0,0
+Alexis Yael Corona Nava,False,2022-01-29 06:26:43+00:00,2022-01-29 16:37:45+00:00,2022-06-27 15:28:10+00:00,Ecuaciones Diferenciales,6,0,0
 Diego Muñiz Franco,False,2022-01-29 14:55:29+00:00,,2022-01-29 14:55:43+00:00,,0,0,0
 Yoselin carrillo.,False,2022-01-29 19:19:39+00:00,,2022-01-31 23:14:23+00:00,,0,0,0
 Mireya Alejandra Bermeo Nuñez,False,2022-01-31 22:59:05+00:00,2022-02-03 21:07:43+00:00,2022-03-29 04:04:20+00:00,[GUÍA] - ¿Qué es un Controlador PID? Un acercamiento a su principio matemático,6,0,0
@@ -598,16 +613,19 @@ Gerardo Peña,False,2022-05-19 22:18:22+00:00,2022-05-19 22:45:01+00:00,2022-06-
 Isaias Alain Reyes Flores,False,2022-02-10 23:52:06+00:00,2022-02-10 23:54:16+00:00,2022-02-11 16:21:19+00:00,La Transformada de Laplace,10,0,0
 Emmanuel Jonathan Aguilar Perales,False,2022-03-24 04:37:02+00:00,2022-05-16 15:08:26+00:00,2022-05-27 00:09:25+00:00,Ecuaciones Diferenciales,6,0,0
 marco juarez,False,2022-03-28 05:18:13+00:00,,,,0,0,0
+Leal Navarrete Gabriel Esteban,False,2022-06-21 23:31:58+00:00,2022-06-22 00:07:09+00:00,2022-06-24 07:03:58+00:00,Solución de ecuaciones diferenciales por Variables Separables,10,0,0
 Gabriel Cruz Rangel,False,2022-04-08 05:27:01+00:00,,2022-04-08 07:00:11+00:00,,0,0,0
-Carlos González,False,2022-06-01 12:31:43+00:00,,,,0,0,0
+Carlos González,False,2022-06-01 12:31:43+00:00,2022-06-19 17:38:38+00:00,2022-06-19 18:06:44+00:00,[GUÍA] - Estabilidad de Sistemas Dinámicos,6,0,0
 Danilo Bueno,False,2022-04-17 01:23:31+00:00,2022-04-21 14:36:23+00:00,2022-04-21 19:26:55+00:00,Ejemplo III - Péndulo Invertido,20,0,0
 Fausto Osorio,False,2022-04-19 13:21:44+00:00,2022-04-19 13:22:24+00:00,2022-04-19 23:36:43+00:00,Ecuaciones de Euler - Lagrange,30,0,0
-Blanca Lucero Xopo Rodríguez,False,2022-04-27 16:02:49+00:00,2022-05-04 02:20:18+00:00,2022-06-13 20:10:20+00:00,[GRATIS] OBTÉN TU CERTIFICADO PROFESIONAL,10,0,0
+Blanca Lucero Xopo Rodríguez,False,2022-04-27 16:02:49+00:00,2022-05-04 02:20:18+00:00,2022-06-29 18:56:12+00:00,[GRATIS] OBTÉN TU CERTIFICADO PROFESIONAL,10,0,0
 Carlos Ivan Castillo Martimez,False,2022-05-05 22:24:21+00:00,2022-05-14 04:49:22+00:00,2022-05-14 04:49:28+00:00,Introducción,2,0,0
-Rodrigo Pericon Wille,False,2022-06-10 02:45:08+00:00,2022-06-10 02:49:42+00:00,2022-06-10 02:53:41+00:00,Sistemas Dinámicos,6,0,0
+Rodrigo Pericon Wille,False,2022-06-10 02:45:08+00:00,2022-06-10 02:49:42+00:00,2022-06-27 12:55:06+00:00,Solución de ecuaciones diferenciales por Variables Separables,10,0,0
 Pedro Fernando Hernandez Castillo,False,2022-05-27 02:38:57+00:00,,,,0,0,0
-Williams Villalba,False,2022-05-27 23:27:20+00:00,2022-05-27 23:36:14+00:00,2022-05-28 13:58:42+00:00,Ecuaciones Diferenciales,10,0,0
-Raul Alegria Gomez,False,2022-05-28 04:53:45+00:00,,,,0,0,0
-GÓMEZ GONZÁLEZ EDSON DAVID,False,2022-06-07 03:10:21+00:00,2022-06-08 23:36:31+00:00,2022-06-08 23:37:47+00:00,Sistemas Dinámicos,12,0,0
+Williams Villalba,False,2022-05-27 23:27:20+00:00,2022-05-27 23:36:14+00:00,2022-07-04 14:45:20+00:00,Diagrama de Bloques,20,0,0
+Raul Alegria Gomez,False,2022-05-28 04:53:45+00:00,2022-06-26 01:51:11+00:00,2022-07-06 03:48:23+00:00,Sistemas Dinámicos,6,0,0
+GÓMEZ GONZÁLEZ EDSON DAVID,False,2022-06-07 03:10:21+00:00,2022-06-08 23:36:31+00:00,2022-07-04 18:01:18+00:00,Ejemplo I - Sistema Masa - Resorte,20,0,0
 Luis Gonzalez García,False,2022-06-16 04:03:10+00:00,2022-06-16 04:15:46+00:00,2022-06-16 04:47:25+00:00,Función de Transferencia y Estabilidad,16,0,0
-Ettiene Bohorquez,False,2022-06-15 12:03:15+00:00,2022-06-15 16:21:58+00:00,2022-06-16 09:30:19+00:00,Introducción,6,0,0
+Alexis Sergio,False,2022-07-07 00:41:12+00:00,,,,0,0,0
+Ettiene Bohórquez González,False,2022-06-15 12:03:15+00:00,2022-06-15 16:21:58+00:00,2022-06-24 02:34:44+00:00,Ejemplo II - Control Proporcional,45,0,0
+Rafael Enrique Gómez Fonque,False,2022-06-17 04:22:54+00:00,2022-06-17 04:23:35+00:00,2022-06-17 20:29:22+00:00,[GRATIS] OBTÉN TU CERTIFICADO PROFESIONAL,2,0,0
