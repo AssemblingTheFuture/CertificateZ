@@ -1,3 +1,5 @@
+# Smart contracts have to be deployed in [https://rpc.ghostnet.teztnets.xyz](https://rpc.ghostnet.teztnets.xyz)
+
 To run the demo, you can open the file demo.html from the browser "File/Open..." menu.
 
 Another option is to start the built-in Python HTTP server by

@@ -14,10 +14,10 @@ instructors = {"zDynamics" : "https://zdynamics.org/about/",
                "David Zenteno-Lara" : "https://zdynamics.org/about/zenteno"}
 
 # API to request the smart contracts
-contractsAPI = "https://api.ithacanet.tzkt.io/v1/contracts/"
+contractsAPI = "https://api.ghostnet.tzkt.io/v1/contracts/"
 
 # URL for smart contract overview
-contractsURL = "https://ithacanet.tzkt.io/"
+contractsURL = "https://ghostnet.tzkt.io/"
 
 # Function to check data from server request
 def checkData(request):

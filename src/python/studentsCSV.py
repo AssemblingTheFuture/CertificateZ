@@ -5,7 +5,7 @@ from browser import document, aio
 from browser.html import A, TABLE, TR, TH, TD
 
 # URL for smart contract overview
-contractsURL = "https://ithacanet.tzkt.io/"
+contractsURL = "https://ghostnet.tzkt.io/"
 
 # Get CSV paths
 addressesCSV = os.path.dirname(__file__) + "/csv/addresses.csv"
